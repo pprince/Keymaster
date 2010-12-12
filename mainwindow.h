@@ -16,10 +16,20 @@ class MainWindow : public QMainWindow
 public:
     explicit MainWindow(QWidget *parent = 0);
     ~MainWindow();
+    int current_key;
 
 private:
     Ui::MainWindow *ui;
     QGraphicsSvgItem *combined_item;
+    QGraphicsScene   *combined_scene;
+    QGraphicsScene   *signatures_scene;
+    QGraphicsSvgItem *signatures_item;
+    QGraphicsScene   *majortext_scene;
+    QGraphicsSvgItem *majortext_item;
+    QGraphicsScene   *minortext_scene;
+    QGraphicsSvgItem *minortext_item;
+    QGraphicsScene   *numbers_scene;
+    QGraphicsSvgItem *numbers_item;
 
 private slots:
     void on_actionExit_triggered();

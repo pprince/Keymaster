@@ -255,7 +255,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.1140171"
      inkscape:cx="216.15539"
-     inkscape:cy="61.751813"
+     inkscape:cy="1276.9882"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="true"
@@ -304,147 +304,106 @@
      id="layer5"
      inkscape:label="numbers"
      transform="translate(0,900)">
-    <rect
+    <path
        style="fill:#ffffff;fill-opacity:0.27986348;stroke:#ffffff;stroke-opacity:0.44363637;display:inline"
-       id="rect4559-2-2-2-21-1-7-0"
-       width="100"
-       height="100"
-       x="100"
-       y="-201" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3213-98-4-0"
+       d="m 100,-201 100,0 0,100 -100,0 z"
+       id="rect4559-2-2-2-21-1-7-0" />
+    <g
+       transform="translate(-40.40625,-163.8125)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold"
-       transform="translate(-40.40625,-163.8125)"><flowRegion
-         id="flowRegion3215-3-45-8"><rect
-           id="rect3217-69-2-8"
-           width="194.17232"
-           height="81.417053"
-           x="99.607887"
-           y="-21.782101"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold" /></flowRegion><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-3px;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
-         id="flowPara3219-0-7-9">G♭</flowPara></flowRoot>    <rect
+       id="flowRoot3213-98-4-0">
+      <path
+         d="m 160.875,13.28125 c 0,-5.499978 1.4375,-9.6874738 4.3125,-12.5625 2.62499,-2.6249683 5.81249,-3.937467 9.5625,-3.9375 3.74998,3.3e-5 6.81248,1.1875318 9.1875,3.5625 1.99997,2.0000274 3.06247,4.437525 3.1875,7.3125 l -4.5,0 c -0.12502,-2.1249757 -0.87502,-3.874974 -2.25,-5.25 -1.37502,-1.3749712 -3.25002,-2.06247056 -5.625,-2.0625 -2.37501,2.944e-5 -4.37501,0.8125286 -6,2.4375 -2.25001,2.2500248 -3.37501,5.7500213 -3.375,10.5 -1e-5,4.500012 1.18749,7.937509 3.5625,10.3125 1.62499,1.625005 3.87499,2.437504 6.75,2.4375 2.12498,4e-6 3.87498,-0.687496 5.25,-2.0625 1.37498,-1.374993 2.18747,-2.812491 2.4375,-4.3125 l 0,-3 -5.4375,0 0,-3.5625 9.75,0 0,16.5 -3.1875,0 -1.125,-3.1875 c -2.12502,2.125001 -4.81252,3.1875 -8.0625,3.1875 -4.00001,0 -7.25001,-1.249999 -9.75,-3.75 -3.125,-3.124993 -4.6875,-7.312489 -4.6875,-12.5625 z"
+         style="font-size:48px;font-weight:normal;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4298" />
+      <path
+         d="m 207.375,29.40625 c 1.62498,-0.999999 3.12498,-2.187497 4.5,-3.5625 2.99997,-2.999993 4.49997,-5.93749 4.5,-8.8125 -3e-5,-1.374986 -0.43753,-2.499985 -1.3125,-3.375 -0.75003,-0.749983 -1.56253,-1.124983 -2.4375,-1.125 -2.12502,1.7e-5 -3.87502,0.375017 -5.25,1.125 z m 4.125,-0.9375 c -1.50002,1 -3.75002,2.374999 -6.75,4.125 l 0,-39.5625 2.625,0 0,19.125 c 1.62498,-0.874982 3.56248,-1.312481 5.8125,-1.3125 2.12497,1.9e-5 3.74997,0.562518 4.875,1.6875 1.24997,1.250016 1.87497,2.875014 1.875,4.875 -3e-5,2.37501 -1.18753,4.750008 -3.5625,7.125 -1.37503,1.375004 -3.00003,2.687503 -4.875,3.9375 z"
+         style="font-size:48px;font-weight:normal;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4300" />
+    </g>
+    <path
        style="fill:#ffffff;fill-opacity:0.27986348;stroke:#ffffff;stroke-opacity:0.44363637;display:inline"
-       id="rect4559-2-2-2-21-1-7-0-4"
-       width="100"
-       height="100"
-       x="100"
-       y="-101" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3213-98-4-0-3"
+       d="m 100,-101 100,0 0,100 -100,0 z"
+       id="rect4559-2-2-2-21-1-7-0-4" />
+    <g
+       transform="translate(-40.40625,-63.8125)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold"
-       transform="translate(-40.40625,-63.8125)"><flowRegion
-         id="flowRegion3215-3-45-8-8"><rect
-           id="rect3217-69-2-8-7"
-           width="194.17232"
-           height="81.417053"
-           x="99.607887"
-           y="-21.782101"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold" /></flowRegion><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-3px;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
-         id="flowPara3219-0-7-9-6">F♯</flowPara></flowRoot>    <rect
+       id="flowRoot3213-98-4-0-3">
+      <path
+         d="m 164.71875,-2.84375 21.5625,0 0,3.5625 -17.25,0 0,10.5 13.5,0 0,3.5625 -13.5,0 0,14.4375 -4.3125,0 z"
+         style="font-size:48px;font-weight:normal;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4292" />
+      <path
+         d="m 212.71875,6.53125 -8.25,0.9375 0,12 8.25,-0.9375 z m -19.6875,14.4375 7.6875,-0.9375 0,-12 -7.6875,0.75 0,-3.5625 7.6875,-0.75 0,-10.5 3.75,0 0,9.9375 8.25,-0.9375 0,-11.4375 3.75,0 0,10.875 7.6875,-0.9375 0,3.5625 -7.6875,0.9375 0,12 7.6875,-0.9375 0,3.5625 -7.6875,0.9375 0,9.75 -3.75,0 0,-9.1875 -8.25,0.9375 0,10.6875 -3.75,0 0,-10.125 -7.6875,0.9375 z"
+         style="font-size:48px;font-weight:normal;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4294" />
+    </g>
+    <path
        style="fill:#ffffff;fill-opacity:0.27986348;stroke:#ffffff;stroke-opacity:0.44363637;display:inline"
-       id="rect4559-2-2-2-21-1-7-0-2"
-       width="100"
-       height="100"
-       x="100"
-       y="-400" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3213-98-4-0-4"
+       d="m 100,-400 100,0 0,100 -100,0 z"
+       id="rect4559-2-2-2-21-1-7-0-2" />
+    <g
+       transform="translate(-44.40625,-362.8125)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold"
-       transform="translate(-44.40625,-362.8125)"><flowRegion
-         id="flowRegion3215-3-45-8-0"><rect
-           id="rect3217-69-2-8-1"
-           width="194.17232"
-           height="81.417053"
-           x="99.607887"
-           y="-21.782101"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold" /></flowRegion><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-3px;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
-         id="flowPara3219-0-7-9-0">B</flowPara></flowRoot>    <rect
+       id="flowRoot3213-98-4-0-4">
+      <path
+         d="m 184.59375,-2.84375 15,0 c 2.49998,3.26e-5 4.56248,0.8125318 6.1875,2.4375 1.49997,1.5000287 2.24997,3.5000267 2.25,6 -3e-5,2.0000222 -0.68753,3.6875205 -2.0625,5.0625 -0.75002,0.750018 -1.68752,1.312518 -2.8125,1.6875 1.49998,0.500017 2.68748,1.187516 3.5625,2.0625 1.49997,1.500014 2.24997,3.375012 2.25,5.625 -3e-5,2.750007 -0.93753,5.062505 -2.8125,6.9375 -1.50002,1.500001 -3.75002,2.250001 -6.75,2.25 l -14.8125,0 z m 4.3125,3.5625 0,9.9375 10.125,0 c 1.24998,1.9e-5 2.31248,-0.43748 3.1875,-1.3125 0.99998,-0.9999786 1.49998,-2.3124773 1.5,-3.9375 -2e-5,-1.3749742 -0.50002,-2.5624731 -1.5,-3.5625 -0.75002,-0.7499713 -1.68752,-1.12497094 -2.8125,-1.125 z m 0,13.5 0,11.4375 9.5625,0 c 1.87498,4e-6 3.31248,-0.499995 4.3125,-1.5 1.12498,-1.124993 1.68748,-2.499992 1.6875,-4.125 -2e-5,-1.749989 -0.50002,-3.124987 -1.5,-4.125 -1.12502,-1.124985 -2.62502,-1.687484 -4.5,-1.6875 z"
+         style="font-size:48px;font-weight:normal;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4288" />
+    </g>
+    <path
        style="fill:#ffffff;fill-opacity:0.27986348;stroke:#ffffff;stroke-opacity:0.44363637;display:inline"
-       id="rect4559-2-2-2-21-1-7-0-7"
-       width="100"
-       height="100"
-       x="100"
-       y="-500" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3213-98-4-0-6"
+       d="m 100,-500 100,0 0,100 -100,0 z"
+       id="rect4559-2-2-2-21-1-7-0-7" />
+    <g
+       transform="translate(-44.40625,-462.8125)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold"
-       transform="translate(-44.40625,-462.8125)"><flowRegion
-         id="flowRegion3215-3-45-8-9"><rect
-           id="rect3217-69-2-8-5"
-           width="194.17232"
-           height="81.417053"
-           x="99.607887"
-           y="-21.782101"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold" /></flowRegion><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-3px;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
-         id="flowPara3219-0-7-9-60">E</flowPara></flowRoot>    <rect
+       id="flowRoot3213-98-4-0-6">
+      <path
+         d="m 186.28125,-2.84375 20.625,0 0,3.5625 -16.3125,0 0,9.9375 15.1875,0 0,3.5625 -15.1875,0 0,11.4375 17.25,0 0,3.5625 -21.5625,0 z"
+         style="font-size:48px;font-weight:normal;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4284" />
+    </g>
+    <path
        style="fill:#ffffff;fill-opacity:0.27986348;stroke:#ffffff;stroke-opacity:0.44363637;display:inline"
-       id="rect4559-2-2-2-21-1-7-0-48"
-       width="100"
-       height="100"
-       x="100"
-       y="-600" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3213-98-4-0-48"
+       d="m 100,-600 100,0 0,100 -100,0 z"
+       id="rect4559-2-2-2-21-1-7-0-48" />
+    <g
+       transform="translate(-44.40625,-562.8125)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold"
-       transform="translate(-44.40625,-562.8125)"><flowRegion
-         id="flowRegion3215-3-45-8-83"><rect
-           id="rect3217-69-2-8-2"
-           width="194.17232"
-           height="81.417053"
-           x="99.607887"
-           y="-21.782101"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold" /></flowRegion><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-3px;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
-         id="flowPara3219-0-7-9-8">A</flowPara></flowRoot>    <rect
+       id="flowRoot3213-98-4-0-48">
+      <path
+         d="m 182.0625,29.21875 12.75,-32.4375 3.75,0 12.75,32.4375 -4.5,0 -3.9375,-9.75 -12.375,0 -3.9375,9.75 z m 14.625,-26.25 -4.875,12.9375 9.75,0 z"
+         style="font-size:48px;font-weight:normal;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4280" />
+    </g>
+    <path
        style="fill:#ffffff;fill-opacity:0.27986348;stroke:#ffffff;stroke-opacity:0.44363637;display:inline"
-       id="rect4559-2-2-2-21-1-7-0-3"
-       width="100"
-       height="100"
-       x="100"
-       y="-700" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3213-98-4-0-42"
+       d="m 100,-700 100,0 0,100 -100,0 z"
+       id="rect4559-2-2-2-21-1-7-0-3" />
+    <g
+       transform="translate(-44.40625,-662.8125)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold"
-       transform="translate(-44.40625,-662.8125)"><flowRegion
-         id="flowRegion3215-3-45-8-1"><rect
-           id="rect3217-69-2-8-6"
-           width="194.17232"
-           height="81.417053"
-           x="99.607887"
-           y="-21.782101"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold" /></flowRegion><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-3px;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
-         id="flowPara3219-0-7-9-05">D</flowPara></flowRoot>    <rect
+       id="flowRoot3213-98-4-0-42">
+      <path
+         d="m 184.3125,-2.84375 11.25,0 c 3.74998,3.26e-5 6.93748,1.3125313 9.5625,3.9375 2.74997,2.7500259 4.12497,6.8750218 4.125,12.375 -3e-5,5.250011 -1.43753,9.312507 -4.3125,12.1875 -2.37502,2.375002 -5.50002,3.562501 -9.375,3.5625 l -11.25,0 z m 4.3125,3.5625 0,24.9375 6.75,0 c 2.37498,4e-6 4.31248,-0.749995 5.8125,-2.25 2.37498,-2.374991 3.56248,-5.687488 3.5625,-9.9375 -2e-5,-4.4999792 -1.12502,-7.8749758 -3.375,-10.125 -1.75002,-1.7499718 -3.75002,-2.62497094 -6,-2.625 z"
+         style="font-size:48px;font-weight:normal;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4276" />
+    </g>
+    <path
        style="fill:#ffffff;fill-opacity:0.27986348;stroke:#ffffff;stroke-opacity:0.44363637;display:inline"
-       id="rect4559-2-2-2-21-1-7-0-0"
-       width="100"
-       height="100"
-       x="100"
-       y="-800" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3213-98-4-0-2"
+       d="m 100,-800 100,0 0,100 -100,0 z"
+       id="rect4559-2-2-2-21-1-7-0-0" />
+    <g
+       transform="translate(-44.40625,-762.8125)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold"
-       transform="translate(-44.40625,-762.8125)"><flowRegion
-         id="flowRegion3215-3-45-8-3"><rect
-           id="rect3217-69-2-8-3"
-           width="194.17232"
-           height="81.417053"
-           x="99.607887"
-           y="-21.782101"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold" /></flowRegion><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-3px;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
-         id="flowPara4523">G</flowPara></flowRoot>    <path
+       id="flowRoot3213-98-4-0-2">
+      <path
+         d="m 183.375,13.28125 c 0,-5.499978 1.4375,-9.6874738 4.3125,-12.5625 2.62499,-2.6249683 5.81249,-3.937467 9.5625,-3.9375 3.74998,3.3e-5 6.81248,1.1875318 9.1875,3.5625 1.99997,2.0000274 3.06247,4.437525 3.1875,7.3125 l -4.5,0 c -0.12502,-2.1249757 -0.87502,-3.874974 -2.25,-5.25 -1.37502,-1.3749712 -3.25002,-2.06247056 -5.625,-2.0625 -2.37501,2.944e-5 -4.37501,0.8125286 -6,2.4375 -2.25001,2.2500248 -3.37501,5.7500213 -3.375,10.5 -1e-5,4.500012 1.18749,7.937509 3.5625,10.3125 1.62499,1.625005 3.87499,2.437504 6.75,2.4375 2.12498,4e-6 3.87498,-0.687496 5.25,-2.0625 1.37498,-1.374993 2.18747,-2.812491 2.4375,-4.3125 l 0,-3 -5.4375,0 0,-3.5625 9.75,0 0,16.5 -3.1875,0 -1.125,-3.1875 c -2.12502,2.125001 -4.81252,3.1875 -8.0625,3.1875 -4.00001,0 -7.25001,-1.249999 -9.75,-3.75 -3.125,-3.124993 -4.6875,-7.312489 -4.6875,-12.5625 z"
+         style="font-size:48px;font-weight:normal;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4272" />
+    </g>
+    <path
        style="fill:#ffffff;fill-opacity:0.27986348;stroke:#ffffff;stroke-opacity:0.44363637;display:inline"
        d="m 100,-900 100,0 0,100 -100,0 z"
        id="rect4559-2-2-2-21-1-7-0-42"
@@ -454,167 +413,135 @@
        id="path3621"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
        d="m 138.96875,-849.53125 c 0,-5.49998 1.5625,-9.81247 4.6875,-12.9375 2.37499,-2.37497 5.43749,-3.56247 9.1875,-3.5625 3.74998,3e-5 6.68748,1.06253 8.8125,3.1875 2.24997,2.25003 3.43747,5.12502 3.5625,8.625 l -4.5,0 c -0.25002,-2.62498 -1.06252,-4.62497 -2.4375,-6 -1.50002,-1.49997 -3.31252,-2.24997 -5.4375,-2.25 -2.25001,3e-5 -4.25001,0.87503 -6,2.625 -2.25001,2.25002 -3.37501,5.68752 -3.375,10.3125 -1e-5,4.62501 1.12499,8.06251 3.375,10.3125 1.62499,1.625 3.62499,2.4375 6,2.4375 2.49998,0 4.43748,-0.6875 5.8125,-2.0625 1.74998,-1.74999 2.62498,-4.24999 2.625,-7.5 l 4.5,0 c -0.12503,4.25001 -1.37503,7.56251 -3.75,9.9375 -2.12502,2.125 -5.18752,3.1875 -9.1875,3.1875 -3.75001,0 -6.81251,-1.1875 -9.1875,-3.5625 -3.125,-3.12499 -4.6875,-7.37499 -4.6875,-12.75 z" />
-    <rect
+    <path
        style="fill:#ffffff;fill-opacity:0.27986348;stroke:#ffffff;stroke-opacity:0.44363637;display:inline"
-       id="rect4559-2-2-2-21-1-7-0-4-1-7"
-       width="100"
-       height="100"
-       x="300"
-       y="-800" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3213-98-4-0-3-9-6"
+       d="m 300,-800 100,0 0,100 -100,0 z"
+       id="rect4559-2-2-2-21-1-7-0-4-1-7" />
+    <g
+       transform="translate(154.90625,-762.625)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold"
-       transform="translate(154.90625,-762.625)"><flowRegion
-         id="flowRegion3215-3-45-8-8-6-9"><rect
-           id="rect3217-69-2-8-7-14-4"
-           width="194.17232"
-           height="81.417053"
-           x="99.607887"
-           y="-21.782101"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold" /></flowRegion><flowPara
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-3px;fill:#000000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
-         id="flowPara3219-0-7-9-6-45-1">1♯</flowPara></flowRoot>    <rect
+       id="flowRoot3213-98-4-0-3-9-6">
+      <path
+         d="m 177.25,-3.34375 c 0.93749,-0.9374745 1.45832,-1.9791402 1.5625,-3.125 l 1.875,0 0,27.03125 -3.59375,0 0,-20.78125 -4.6875,0 0,-1.875 1.40625,0 c 1.45833,2.33e-5 2.60416,-0.416643 3.4375,-1.25 z"
+         style="font-size:40px;font-weight:normal;fill:#000000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4266" />
+      <path
+         d="m 208.78125,1.8125 -6.875,0.78125 0,10 6.875,-0.78125 z m -16.40625,12.03125 6.40625,-0.78125 0,-10 -6.40625,0.625 0,-2.96875 6.40625,-0.625 0,-8.75 3.125,0 0,8.28125 6.875,-0.78125 0,-9.53125 3.125,0 0,9.0625 6.40625,-0.78125 0,2.96875 -6.40625,0.78125 0,10 6.40625,-0.78125 0,2.96875 -6.40625,0.78125 0,8.125 -3.125,0 0,-7.65625 -6.875,0.78125 0,8.90625 -3.125,0 0,-8.4375 -6.40625,0.78125 z"
+         style="font-size:40px;font-weight:normal;fill:#000000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4268" />
+    </g>
+    <path
        style="fill:#ffffff;fill-opacity:0.27986348;stroke:#ffffff;stroke-opacity:0.44363637;display:inline"
-       id="rect4559-2-2-2-21-1-7-0-4-2-9"
-       width="100"
-       height="100"
-       x="300"
-       y="-900" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3213-98-4-0-3-7-5"
+       d="m 300,-900 100,0 0,100 -100,0 z"
+       id="rect4559-2-2-2-21-1-7-0-4-2-9" />
+    <g
+       transform="translate(153.3125,-862.4375)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold"
-       transform="translate(153.3125,-862.4375)"><flowRegion
-         id="flowRegion3215-3-45-8-8-9-7"><rect
-           id="rect3217-69-2-8-7-16-7"
-           width="194.17232"
-           height="81.417053"
-           x="99.607887"
-           y="-21.782101"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold" /></flowRegion><flowPara
-         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-3px;fill:#000000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
-         id="flowPara3219-0-7-9-6-49-0">♮</flowPara></flowRoot>    <rect
+       id="flowRoot3213-98-4-0-3-7-5">
+      <path
+         d="m 202.92187,22.1875 0,-11.375 -12.46875,3.28125 0,11.375 z m 1.53125,15.53125 -1.53125,0 0,-12.25 -14,3.71875 0,-30.625 1.53125,0 0,12.25 14,-3.71875 z"
+         style="font-size:56px;font-weight:normal;fill:#000000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4262" />
+    </g>
+    <path
        style="fill:#ffffff;fill-opacity:0.27986348;stroke:#ffffff;stroke-opacity:0.44363637;display:inline"
-       id="rect4559-2-2-2-21-1-7-0-8"
-       width="100"
-       height="100"
-       x="100"
-       y="-1" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3213-98-4-0-0"
+       d="m 100,-1 100,0 0,100 -100,0 z"
+       id="rect4559-2-2-2-21-1-7-0-8" />
+    <g
+       transform="translate(-40.40625,36.1875)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold"
-       transform="translate(-40.40625,36.1875)"><flowRegion
-         id="flowRegion3215-3-45-8-6"><rect
-           id="rect3217-69-2-8-55"
-           width="194.17232"
-           height="81.417053"
-           x="99.607887"
-           y="-21.782101"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold" /></flowRegion><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-3px;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
-         id="flowPara3219-0-7-9-3">D♭</flowPara></flowRoot>    <rect
+       id="flowRoot3213-98-4-0-0">
+      <path
+         d="m 161.8125,-2.84375 11.25,0 c 3.74998,3.26e-5 6.93748,1.3125313 9.5625,3.9375 2.74997,2.7500259 4.12497,6.8750218 4.125,12.375 -3e-5,5.250011 -1.43753,9.312507 -4.3125,12.1875 -2.37502,2.375002 -5.50002,3.562501 -9.375,3.5625 l -11.25,0 z m 4.3125,3.5625 0,24.9375 6.75,0 c 2.37498,4e-6 4.31248,-0.749995 5.8125,-2.25 2.37498,-2.374991 3.56248,-5.687488 3.5625,-9.9375 -2e-5,-4.4999792 -1.12502,-7.8749758 -3.375,-10.125 -1.75002,-1.7499718 -3.75002,-2.62497094 -6,-2.625 z"
+         style="font-size:48px;font-weight:normal;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4256" />
+      <path
+         d="m 206.625,29.40625 c 1.62498,-0.999999 3.12498,-2.187497 4.5,-3.5625 2.99997,-2.999993 4.49997,-5.93749 4.5,-8.8125 -3e-5,-1.374986 -0.43753,-2.499985 -1.3125,-3.375 -0.75003,-0.749983 -1.56253,-1.124983 -2.4375,-1.125 -2.12502,1.7e-5 -3.87502,0.375017 -5.25,1.125 z m 4.125,-0.9375 c -1.50002,1 -3.75002,2.374999 -6.75,4.125 l 0,-39.5625 2.625,0 0,19.125 c 1.62498,-0.874982 3.56248,-1.312481 5.8125,-1.3125 2.12497,1.9e-5 3.74997,0.562518 4.875,1.6875 1.24997,1.250016 1.87497,2.875014 1.875,4.875 -3e-5,2.37501 -1.18753,4.750008 -3.5625,7.125 -1.37503,1.375004 -3.00003,2.687503 -4.875,3.9375 z"
+         style="font-size:48px;font-weight:normal;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4258" />
+    </g>
+    <path
        style="fill:#ffffff;fill-opacity:0.27986348;stroke:#ffffff;stroke-opacity:0.44363637;display:inline"
-       id="rect4559-2-2-2-21-1-7-0-82"
-       width="100"
-       height="100"
-       x="100"
-       y="199" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3213-98-4-0-46"
+       d="m 100,199 100,0 0,100 -100,0 z"
+       id="rect4559-2-2-2-21-1-7-0-82" />
+    <g
+       transform="translate(-40.40625,236.1875)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold"
-       transform="translate(-40.40625,236.1875)"><flowRegion
-         id="flowRegion3215-3-45-8-7"><rect
-           id="rect3217-69-2-8-21"
-           width="194.17232"
-           height="81.417053"
-           x="99.607887"
-           y="-21.782101"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold" /></flowRegion><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-3px;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
-         id="flowPara3219-0-7-9-00">A♭</flowPara></flowRoot>    <rect
+       id="flowRoot3213-98-4-0-46">
+      <path
+         d="m 159.5625,29.21875 12.75,-32.4375 3.75,0 12.75,32.4375 -4.5,0 -3.9375,-9.75 -12.375,0 -3.9375,9.75 z m 14.625,-26.25 -4.875,12.9375 9.75,0 z"
+         style="font-size:48px;font-weight:normal;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4250" />
+      <path
+         d="m 206.25,29.40625 c 1.62498,-0.999999 3.12498,-2.187497 4.5,-3.5625 2.99997,-2.999993 4.49997,-5.93749 4.5,-8.8125 -3e-5,-1.374986 -0.43753,-2.499985 -1.3125,-3.375 -0.75003,-0.749983 -1.56253,-1.124983 -2.4375,-1.125 -2.12502,1.7e-5 -3.87502,0.375017 -5.25,1.125 z m 4.125,-0.9375 c -1.50002,1 -3.75002,2.374999 -6.75,4.125 l 0,-39.5625 2.625,0 0,19.125 c 1.62498,-0.874982 3.56248,-1.312481 5.8125,-1.3125 2.12497,1.9e-5 3.74997,0.562518 4.875,1.6875 1.24997,1.250016 1.87497,2.875014 1.875,4.875 -3e-5,2.37501 -1.18753,4.750008 -3.5625,7.125 -1.37503,1.375004 -3.00003,2.687503 -4.875,3.9375 z"
+         style="font-size:48px;font-weight:normal;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4252" />
+    </g>
+    <path
        style="fill:#ffffff;fill-opacity:0.27986348;stroke:#ffffff;stroke-opacity:0.44363637;display:inline"
-       id="rect4559-2-2-2-21-1-7-0-1"
-       width="100"
-       height="100"
-       x="100"
-       y="299" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3213-98-4-0-07"
+       d="m 100,299 100,0 0,100 -100,0 z"
+       id="rect4559-2-2-2-21-1-7-0-1" />
+    <g
+       transform="translate(-40.40625,336.1875)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold"
-       transform="translate(-40.40625,336.1875)"><flowRegion
-         id="flowRegion3215-3-45-8-2"><rect
-           id="rect3217-69-2-8-58"
-           width="194.17232"
-           height="81.417053"
-           x="99.607887"
-           y="-21.782101"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold" /></flowRegion><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-3px;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
-         id="flowPara3219-0-7-9-85">E♭</flowPara></flowRoot>    <rect
+       id="flowRoot3213-98-4-0-07">
+      <path
+         d="m 163.78125,-2.84375 20.625,0 0,3.5625 -16.3125,0 0,9.9375 15.1875,0 0,3.5625 -15.1875,0 0,11.4375 17.25,0 0,3.5625 -21.5625,0 z"
+         style="font-size:48px;font-weight:normal;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4244" />
+      <path
+         d="m 204.65625,29.40625 c 1.62498,-0.999999 3.12498,-2.187497 4.5,-3.5625 2.99997,-2.999993 4.49997,-5.93749 4.5,-8.8125 -3e-5,-1.374986 -0.43753,-2.499985 -1.3125,-3.375 -0.75003,-0.749983 -1.56253,-1.124983 -2.4375,-1.125 -2.12502,1.7e-5 -3.87502,0.375017 -5.25,1.125 z m 4.125,-0.9375 c -1.50002,1 -3.75002,2.374999 -6.75,4.125 l 0,-39.5625 2.625,0 0,19.125 c 1.62498,-0.874982 3.56248,-1.312481 5.8125,-1.3125 2.12497,1.9e-5 3.74997,0.562518 4.875,1.6875 1.24997,1.250016 1.87497,2.875014 1.875,4.875 -3e-5,2.37501 -1.18753,4.750008 -3.5625,7.125 -1.37503,1.375004 -3.00003,2.687503 -4.875,3.9375 z"
+         style="font-size:48px;font-weight:normal;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4246" />
+    </g>
+    <path
        style="fill:#ffffff;fill-opacity:0.27986348;stroke:#ffffff;stroke-opacity:0.44363637;display:inline"
-       id="rect4559-2-2-2-21-1-7-0-7-2"
-       width="100"
-       height="100"
-       x="100"
-       y="499" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3213-98-4-0-6-4"
+       d="m 100,499 100,0 0,100 -100,0 z"
+       id="rect4559-2-2-2-21-1-7-0-7-2" />
+    <g
+       transform="translate(-44.40625,536.1875)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold"
-       transform="translate(-44.40625,536.1875)"><flowRegion
-         id="flowRegion3215-3-45-8-9-2"><rect
-           id="rect3217-69-2-8-5-3"
-           width="194.17232"
-           height="81.417053"
-           x="99.607887"
-           y="-21.782101"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold" /></flowRegion><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-3px;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
-         id="flowPara3219-0-7-9-60-0">F</flowPara></flowRoot>    <rect
+       id="flowRoot3213-98-4-0-6-4">
+      <path
+         d="m 187.21875,-2.84375 21.5625,0 0,3.5625 -17.25,0 0,10.5 13.5,0 0,3.5625 -13.5,0 0,14.4375 -4.3125,0 z"
+         style="font-size:48px;font-weight:normal;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4240" />
+    </g>
+    <path
        style="fill:#ffffff;fill-opacity:0.27986348;stroke:#ffffff;stroke-opacity:0.44363637;display:inline"
-       id="rect4559-2-2-2-21-1-7-0-4-4"
-       width="100"
-       height="100"
-       x="100"
-       y="99" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3213-98-4-0-3-0"
+       d="m 100,99 100,0 0,100 -100,0 z"
+       id="rect4559-2-2-2-21-1-7-0-4-4" />
+    <g
+       transform="translate(-40.40625,136.1875)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold"
-       transform="translate(-40.40625,136.1875)"><flowRegion
-         id="flowRegion3215-3-45-8-8-9"><rect
-           id="rect3217-69-2-8-7-4"
-           width="194.17232"
-           height="81.417053"
-           x="99.607887"
-           y="-21.782101"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold" /></flowRegion><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-3px;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
-         id="flowPara3219-0-7-9-6-8">C♯</flowPara></flowRoot>    <rect
+       id="flowRoot3213-98-4-0-3-0">
+      <path
+         d="m 160.875,13.28125 c 0,-5.499978 1.5625,-9.8124737 4.6875,-12.9375 2.37499,-2.3749682 5.43749,-3.562467 9.1875,-3.5625 3.74998,3.3e-5 6.68748,1.0625319 8.8125,3.1875 2.24997,2.2500276 3.43747,5.1250247 3.5625,8.625 l -4.5,0 c -0.25002,-2.6249762 -1.06252,-4.6249742 -2.4375,-6 -1.50002,-1.4999713 -3.31252,-2.24997056 -5.4375,-2.25 -2.25001,2.944e-5 -4.25001,0.8750286 -6,2.625 -2.25001,2.2500246 -3.37501,5.6875211 -3.375,10.3125 -1e-5,4.625012 1.12499,8.062508 3.375,10.3125 1.62499,1.625005 3.62499,2.437504 6,2.4375 2.49998,4e-6 4.43748,-0.687496 5.8125,-2.0625 1.74998,-1.749992 2.62498,-4.24999 2.625,-7.5 l 4.5,0 c -0.12503,4.250009 -1.37503,7.562506 -3.75,9.9375 -2.12502,2.125001 -5.18752,3.1875 -9.1875,3.1875 -3.75001,0 -6.81251,-1.187499 -9.1875,-3.5625 -3.125,-3.124993 -4.6875,-7.374989 -4.6875,-12.75 z"
+         style="font-size:48px;font-weight:normal;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4234" />
+      <path
+         d="m 215.4375,6.53125 -8.25,0.9375 0,12 8.25,-0.9375 z m -19.6875,14.4375 7.6875,-0.9375 0,-12 -7.6875,0.75 0,-3.5625 7.6875,-0.75 0,-10.5 3.75,0 0,9.9375 8.25,-0.9375 0,-11.4375 3.75,0 0,10.875 7.6875,-0.9375 0,3.5625 -7.6875,0.9375 0,12 7.6875,-0.9375 0,3.5625 -7.6875,0.9375 0,9.75 -3.75,0 0,-9.1875 -8.25,0.9375 0,10.6875 -3.75,0 0,-10.125 -7.6875,0.9375 z"
+         style="font-size:48px;font-weight:normal;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4236" />
+    </g>
+    <path
        style="fill:#ffffff;fill-opacity:0.27986348;stroke:#ffffff;stroke-opacity:0.44363637;display:inline"
-       id="rect4559-2-2-2-21-1-7-0-5"
-       width="100"
-       height="100"
-       x="100"
-       y="-301" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3213-98-4-0-1"
+       d="m 100,-301 100,0 0,100 -100,0 z"
+       id="rect4559-2-2-2-21-1-7-0-5" />
+    <g
+       transform="translate(-40.40625,-263.8125)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold"
-       transform="translate(-40.40625,-263.8125)"><flowRegion
-         id="flowRegion3215-3-45-8-71"><rect
-           id="rect3217-69-2-8-15"
-           width="194.17232"
-           height="81.417053"
-           x="99.607887"
-           y="-21.782101"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold" /></flowRegion><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-3px;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
-         id="flowPara3219-0-7-9-2">C♭</flowPara></flowRoot>    <g
+       id="flowRoot3213-98-4-0-1">
+      <path
+         d="m 160.875,13.28125 c 0,-5.499978 1.5625,-9.8124737 4.6875,-12.9375 2.37499,-2.3749682 5.43749,-3.562467 9.1875,-3.5625 3.74998,3.3e-5 6.68748,1.0625319 8.8125,3.1875 2.24997,2.2500276 3.43747,5.1250247 3.5625,8.625 l -4.5,0 c -0.25002,-2.6249762 -1.06252,-4.6249742 -2.4375,-6 -1.50002,-1.4999713 -3.31252,-2.24997056 -5.4375,-2.25 -2.25001,2.944e-5 -4.25001,0.8750286 -6,2.625 -2.25001,2.2500246 -3.37501,5.6875211 -3.375,10.3125 -1e-5,4.625012 1.12499,8.062508 3.375,10.3125 1.62499,1.625005 3.62499,2.437504 6,2.4375 2.49998,4e-6 4.43748,-0.687496 5.8125,-2.0625 1.74998,-1.749992 2.62498,-4.24999 2.625,-7.5 l 4.5,0 c -0.12503,4.250009 -1.37503,7.562506 -3.75,9.9375 -2.12502,2.125001 -5.18752,3.1875 -9.1875,3.1875 -3.75001,0 -6.81251,-1.187499 -9.1875,-3.5625 -3.125,-3.124993 -4.6875,-7.374989 -4.6875,-12.75 z"
+         style="font-size:48px;font-weight:normal;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4228" />
+      <path
+         d="m 207,29.40625 c 1.62498,-0.999999 3.12498,-2.187497 4.5,-3.5625 2.99997,-2.999993 4.49997,-5.93749 4.5,-8.8125 -3e-5,-1.374986 -0.43753,-2.499985 -1.3125,-3.375 -0.75003,-0.749983 -1.56253,-1.124983 -2.4375,-1.125 -2.12502,1.7e-5 -3.87502,0.375017 -5.25,1.125 z m 4.125,-0.9375 c -1.50002,1 -3.75002,2.374999 -6.75,4.125 l 0,-39.5625 2.625,0 0,19.125 c 1.62498,-0.874982 3.56248,-1.312481 5.8125,-1.3125 2.12497,1.9e-5 3.74997,0.562518 4.875,1.6875 1.24997,1.250016 1.87497,2.875014 1.875,4.875 -3e-5,2.37501 -1.18753,4.750008 -3.5625,7.125 -1.37503,1.375004 -3.00003,2.687503 -4.875,3.9375 z"
+         style="font-size:48px;font-weight:normal;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4230" />
+    </g>
+    <g
        transform="translate(-439.25923,-831.63521)"
        style="display:inline"
        id="g3488">
@@ -1338,587 +1265,472 @@
          style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.83333331;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible"
          inkscape:connector-curvature="0" />
     </g>
-    <rect
+    <path
        style="fill:#ffffff;fill-opacity:0.27986348;stroke:#ffffff;stroke-opacity:0.44363637;display:inline"
-       id="rect4559-2-2-2-21-1-7-0-42-8"
-       width="100"
-       height="100"
-       x="200"
-       y="-900" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3213-98-4-0-68-6"
+       d="m 200,-900 100,0 0,100 -100,0 z"
+       id="rect4559-2-2-2-21-1-7-0-42-8" />
+    <g
+       transform="translate(55.59375,-862.8125)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold"
-       transform="translate(55.59375,-862.8125)"><flowRegion
-         id="flowRegion3215-3-45-8-14-3"><rect
-           id="rect3217-69-2-8-52-0"
-           width="194.17232"
-           height="81.417053"
-           x="99.607887"
-           y="-21.782101"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold" /></flowRegion><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-3px;fill:#008000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
-         id="flowPara3219-0-7-9-1-3">a</flowPara></flowRoot>    <rect
+       id="flowRoot3213-98-4-0-68-6">
+      <path
+         d="m 187.875,14.40625 c 0.375,-1.749983 1.1875,-3.249981 2.4375,-4.5 1.37499,-1.3749787 3.37499,-2.0624781 6,-2.0625 3.12499,2.19e-5 5.37498,0.6875213 6.75,2.0625 1.24998,1.250019 1.87498,2.687517 1.875,4.3125 l 0,11.8125 c -2e-5,1.375002 0.49998,2.437501 1.5,3.1875 l -4.5,0 c -0.50002,-0.499999 -0.75002,-1.312498 -0.75,-2.4375 -1.87501,1.875001 -4.25001,2.8125 -7.125,2.8125 -2.37501,0 -4.1875,-0.624999 -5.4375,-1.875 -1.125,-1.124997 -1.6875,-2.437496 -1.6875,-3.9375 0,-1.749992 0.5625,-3.187491 1.6875,-4.3125 1.25,-1.249988 2.99999,-2.062488 5.25,-2.4375 1.49999,-0.249987 2.81249,-0.562487 3.9375,-0.9375 1.62499,-0.374986 2.74998,-0.749986 3.375,-1.125 -2e-5,-0.999984 -0.37502,-1.874983 -1.125,-2.625 -0.75001,-0.749982 -1.81251,-1.124981 -3.1875,-1.125 -1.75001,1.9e-5 -3.00001,0.375018 -3.75,1.125 -0.50001,0.500017 -0.87501,1.187516 -1.125,2.0625 l -4.125,0 z m 13.3125,4.125 c -0.75002,0.250011 -1.43751,0.437511 -2.0625,0.5625 -2.12501,0.50001 -3.75001,0.87501 -4.875,1.125 -1.00001,0.250009 -1.75001,0.625009 -2.25,1.125 -0.62501,0.625008 -0.93751,1.312507 -0.9375,2.0625 -1e-5,0.875005 0.31249,1.625005 0.9375,2.25 0.37499,0.375004 1.18749,0.562504 2.4375,0.5625 2.12499,4e-6 3.87499,-0.687496 5.25,-2.0625 0.87498,-0.874993 1.37498,-1.499993 1.5,-1.875 z"
+         style="font-size:48px;font-weight:normal;fill:#008000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4224" />
+    </g>
+    <path
        style="fill:#ffffff;fill-opacity:0.27986348;stroke:#ffffff;stroke-opacity:0.44363637;display:inline"
-       id="rect4559-2-2-2-21-1-7-0-42-8-7"
-       width="100"
-       height="100"
-       x="200"
-       y="-800" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3213-98-4-0-68-6-1"
+       d="m 200,-800 100,0 0,100 -100,0 z"
+       id="rect4559-2-2-2-21-1-7-0-42-8-7" />
+    <g
+       transform="translate(55.59375,-762.8125)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold"
-       transform="translate(55.59375,-762.8125)"><flowRegion
-         id="flowRegion3215-3-45-8-14-3-9"><rect
-           id="rect3217-69-2-8-52-0-8"
-           width="194.17232"
-           height="81.417053"
-           x="99.607887"
-           y="-21.782101"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold" /></flowRegion><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-3px;fill:#008000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
-         id="flowPara3219-0-7-9-1-3-6">e</flowPara></flowRoot>    <rect
+       id="flowRoot3213-98-4-0-68-6-1">
+      <path
+         d="m 186.9375,18.71875 c 0,-3.374986 1.0625,-6.124983 3.1875,-8.25 1.74999,-1.7499789 3.99999,-2.6249781 6.75,-2.625 2.62499,2.19e-5 4.87498,0.937521 6.75,2.8125 1.74998,1.750017 2.62498,4.437515 2.625,8.0625 l -15.1875,0 c -1e-5,2.625008 0.62499,4.562507 1.875,5.8125 1.12499,1.125004 2.56249,1.687504 4.3125,1.6875 1.74999,4e-6 2.99998,-0.374996 3.75,-1.125 0.87498,-0.874994 1.31248,-1.874993 1.3125,-3 l 4.125,0 c -0.50002,2.250005 -1.31252,3.937504 -2.4375,5.0625 -1.62502,1.625001 -3.87502,2.4375 -6.75,2.4375 -3.00001,0 -5.43751,-0.937499 -7.3125,-2.8125 -2,-1.999995 -3,-4.687492 -3,-8.0625 z m 9.75,-7.6875 c -1.50001,1.9e-5 -2.75001,0.500018 -3.75,1.5 -0.87501,0.875016 -1.43751,1.937515 -1.6875,3.1875 l 10.6875,0 c -2e-5,-1.249985 -0.50002,-2.374984 -1.5,-3.375 -0.87501,-0.874982 -2.12501,-1.312481 -3.75,-1.3125 z"
+         style="font-size:48px;font-weight:normal;fill:#008000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4220" />
+    </g>
+    <path
        style="fill:#ffffff;fill-opacity:0.27986348;stroke:#ffffff;stroke-opacity:0.44363637;display:inline"
-       id="rect4559-2-2-2-21-1-7-0-42-8-0"
-       width="100"
-       height="100"
-       x="200"
-       y="-700" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3213-98-4-0-68-6-4"
+       d="m 200,-700 100,0 0,100 -100,0 z"
+       id="rect4559-2-2-2-21-1-7-0-42-8-0" />
+    <g
+       transform="translate(55.59375,-662.8125)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold"
-       transform="translate(55.59375,-662.8125)"><flowRegion
-         id="flowRegion3215-3-45-8-14-3-1"><rect
-           id="rect3217-69-2-8-52-0-85"
-           width="194.17232"
-           height="81.417053"
-           x="99.607887"
-           y="-21.782101"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold" /></flowRegion><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-3px;fill:#008000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
-         id="flowPara3219-0-7-9-1-3-7">b</flowPara></flowRoot>    <rect
+       id="flowRoot3213-98-4-0-68-6-4">
+      <path
+         d="m 187.21875,-2.84375 3.75,0 0,13.5 c 1.62499,-1.9999789 3.62499,-2.9999779 6,-3 2.49999,2.21e-5 4.56248,0.8125213 6.1875,2.4375 1.99998,2.000018 2.99998,4.875015 3,8.625 -2e-5,3.625007 -1.00002,6.437505 -3,8.4375 -1.62502,1.625001 -3.75001,2.4375 -6.375,2.4375 -2.75001,0 -4.68751,-0.999999 -5.8125,-3 l 0,2.625 -3.75,0 z m 9.5625,13.875 c -1.50001,1.9e-5 -2.87501,0.625018 -4.125,1.875 -1.12501,1.125016 -1.68751,2.687514 -1.6875,4.6875 l 0,2.25 c -1e-5,1.875008 0.62499,3.437507 1.875,4.6875 1.12499,1.125004 2.43749,1.687504 3.9375,1.6875 1.24999,4e-6 2.31249,-0.437496 3.1875,-1.3125 1.37498,-1.374994 2.06248,-3.437492 2.0625,-6.1875 -2e-5,-2.874986 -0.62502,-4.937484 -1.875,-6.1875 -1.00001,-0.999982 -2.12501,-1.499981 -3.375,-1.5 z"
+         style="font-size:48px;font-weight:normal;fill:#008000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4216" />
+    </g>
+    <path
        style="fill:#ffffff;fill-opacity:0.27986348;stroke:#ffffff;stroke-opacity:0.44363637;display:inline"
-       id="rect4559-2-2-2-21-1-7-0-42-8-2"
-       width="100"
-       height="100"
-       x="200"
-       y="-600" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3213-98-4-0-68-6-0"
+       d="m 200,-600 100,0 0,100 -100,0 z"
+       id="rect4559-2-2-2-21-1-7-0-42-8-2" />
+    <g
+       transform="translate(59.59375,-562.8125)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold"
-       transform="translate(59.59375,-562.8125)"><flowRegion
-         id="flowRegion3215-3-45-8-14-3-96"><rect
-           id="rect3217-69-2-8-52-0-4"
-           width="194.17232"
-           height="81.417053"
-           x="99.607887"
-           y="-21.782101"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold" /></flowRegion><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-3px;fill:#008000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
-         id="flowPara3219-0-7-9-1-3-1">f♯</flowPara></flowRoot>    <rect
+       id="flowRoot3213-98-4-0-68-6-0">
+      <path
+         d="m 175.125,8.21875 6.375,0 0,3 -6.375,0 0,18 -3.75,0 0,-18 -4.5,0 0,-3 4.5,0 0,-5.25 c 0,-1.7499714 0.56249,-3.18747 1.6875,-4.3125 1.24999,-1.2499676 2.93749,-1.874967 5.0625,-1.875 1.62499,3.3e-5 3.31249,0.3125327 5.0625,0.9375 l 0,3.75 c -1.75001,-0.87497081 -3.18751,-1.31247038 -4.3125,-1.3125 -1.37501,2.962e-5 -2.37501,0.31252931 -3,0.9375 -0.50001,0.5000282 -0.75001,1.1250276 -0.75,1.875 z"
+         style="font-size:48px;font-weight:normal;fill:#008000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4210" />
+      <path
+         d="m 206.8125,6.53125 -8.25,0.9375 0,12 8.25,-0.9375 z m -19.6875,14.4375 7.6875,-0.9375 0,-12 -7.6875,0.75 0,-3.5625 7.6875,-0.75 0,-10.5 3.75,0 0,9.9375 8.25,-0.9375 0,-11.4375 3.75,0 0,10.875 7.6875,-0.9375 0,3.5625 -7.6875,0.9375 0,12 7.6875,-0.9375 0,3.5625 -7.6875,0.9375 0,9.75 -3.75,0 0,-9.1875 -8.25,0.9375 0,10.6875 -3.75,0 0,-10.125 -7.6875,0.9375 z"
+         style="font-size:48px;font-weight:normal;fill:#008000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4212" />
+    </g>
+    <path
        style="fill:#ffffff;fill-opacity:0.27986348;stroke:#ffffff;stroke-opacity:0.44363637;display:inline"
-       id="rect4559-2-2-2-21-1-7-0-42-8-3"
-       width="100"
-       height="100"
-       x="200"
-       y="-500" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3213-98-4-0-68-6-18"
+       d="m 200,-500 100,0 0,100 -100,0 z"
+       id="rect4559-2-2-2-21-1-7-0-42-8-3" />
+    <g
+       transform="translate(59.59375,-462.8125)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold"
-       transform="translate(59.59375,-462.8125)"><flowRegion
-         id="flowRegion3215-3-45-8-14-3-3"><rect
-           id="rect3217-69-2-8-52-0-43"
-           width="194.17232"
-           height="81.417053"
-           x="99.607887"
-           y="-21.782101"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold" /></flowRegion><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-3px;fill:#008000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
-         id="flowPara3219-0-7-9-1-3-5">c♯</flowPara></flowRoot>    <rect
+       id="flowRoot3213-98-4-0-68-6-18">
+      <path
+         d="m 164.4375,18.90625 c 0,-3.374986 1,-6.062483 3,-8.0625 1.87499,-1.8749792 4.18749,-2.8124782 6.9375,-2.8125 2.99998,2.18e-5 5.24998,0.750021 6.75,2.25 1.37498,1.375018 2.18748,3.062516 2.4375,5.0625 l -4.125,0 c -0.12502,-0.999985 -0.62502,-1.937484 -1.5,-2.8125 -0.75002,-0.749982 -1.87501,-1.124982 -3.375,-1.125 -1.50001,1.8e-5 -2.75001,0.500018 -3.75,1.5 -1.50001,1.500015 -2.25001,3.562513 -2.25,6.1875 -1e-5,2.500008 0.68749,4.437506 2.0625,5.8125 0.99999,1.000004 2.24999,1.500003 3.75,1.5 1.74999,3e-6 3.12498,-0.499996 4.125,-1.5 0.99998,-0.999994 1.49998,-2.312493 1.5,-3.9375 l 4.125,0 c -0.12502,2.625006 -1.00002,4.750004 -2.625,6.375 -1.62502,1.625001 -4.00002,2.4375 -7.125,2.4375 -2.62501,0 -4.81251,-0.874999 -6.5625,-2.625 -2.25,-2.249995 -3.375,-4.999992 -3.375,-8.25 z"
+         style="font-size:48px;font-weight:normal;fill:#008000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4204" />
+      <path
+         d="m 211.5,6.53125 -8.25,0.9375 0,12 8.25,-0.9375 z m -19.6875,14.4375 7.6875,-0.9375 0,-12 -7.6875,0.75 0,-3.5625 7.6875,-0.75 0,-10.5 3.75,0 0,9.9375 8.25,-0.9375 0,-11.4375 3.75,0 0,10.875 7.6875,-0.9375 0,3.5625 -7.6875,0.9375 0,12 7.6875,-0.9375 0,3.5625 -7.6875,0.9375 0,9.75 -3.75,0 0,-9.1875 -8.25,0.9375 0,10.6875 -3.75,0 0,-10.125 -7.6875,0.9375 z"
+         style="font-size:48px;font-weight:normal;fill:#008000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4206" />
+    </g>
+    <path
        style="fill:#ffffff;fill-opacity:0.27986348;stroke:#ffffff;stroke-opacity:0.44363637;display:inline"
-       id="rect4559-2-2-2-21-1-7-0-42-8-6"
-       width="100"
-       height="100"
-       x="200"
-       y="-400" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3213-98-4-0-68-6-2"
+       d="m 200,-400 100,0 0,100 -100,0 z"
+       id="rect4559-2-2-2-21-1-7-0-42-8-6" />
+    <g
+       transform="translate(59.59375,-362.8125)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold"
-       transform="translate(59.59375,-362.8125)"><flowRegion
-         id="flowRegion3215-3-45-8-14-3-6"><rect
-           id="rect3217-69-2-8-52-0-2"
-           width="194.17232"
-           height="81.417053"
-           x="99.607887"
-           y="-21.782101"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold" /></flowRegion><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-3px;fill:#008000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
-         id="flowPara3219-0-7-9-1-3-59">g♯</flowPara></flowRoot>    <rect
+       id="flowRoot3213-98-4-0-68-6-2">
+      <path
+         d="m 166.3125,15.15625 c 0,-2.124983 0.6875,-3.874982 2.0625,-5.25 1.37499,-1.3749787 3.12499,-2.0624781 5.25,-2.0625 1.99999,2.19e-5 3.74999,0.6250213 5.25,1.875 1.24998,-1.2499787 2.74998,-1.8749781 4.5,-1.875 l 1.6875,0 0,3.5625 c -1.50002,-0.624981 -3.18752,-0.687481 -5.0625,-0.1875 0.87498,1.125017 1.31248,2.437516 1.3125,3.9375 -2e-5,2.250012 -0.68752,4.062511 -2.0625,5.4375 -1.25001,1.250008 -3.06251,1.875007 -5.4375,1.875 -1.25001,7e-6 -2.56251,-0.312492 -3.9375,-0.9375 -0.62501,0.500008 -0.93751,1.000007 -0.9375,1.5 -1e-5,0.375006 0.12499,0.687506 0.375,0.9375 0.62499,0.625005 2.06249,1.000005 4.3125,1.125 1.99999,0.125005 4.12499,0.250004 6.375,0.375 1.24998,0.250004 2.18748,0.687504 2.8125,1.3125 0.99998,1.000002 1.49998,2.187501 1.5,3.5625 -2e-5,1.499998 -0.50002,2.749997 -1.5,3.75 -1.37502,1.374994 -4.37502,2.062494 -9,2.0625 -3.87501,-6e-6 -6.5,-0.687506 -7.875,-2.0625 -0.875,-0.875003 -1.3125,-1.937502 -1.3125,-3.1875 0,-0.875 0.3125,-1.625 0.9375,-2.25 0.5,-0.499998 1.25,-0.999998 2.25,-1.5 -0.375,-0.249997 -0.8125,-0.624997 -1.3125,-1.125 -0.625,-0.624996 -0.9375,-1.437495 -0.9375,-2.4375 0,-1.249993 0.9375,-2.437491 2.8125,-3.5625 -1.375,-1.374989 -2.0625,-2.999987 -2.0625,-4.875 z m 7.3125,-4.125 c -0.87501,1.9e-5 -1.62501,0.312518 -2.25,0.9375 -0.87501,0.875017 -1.31251,1.937516 -1.3125,3.1875 -1e-5,1.250013 0.37499,2.250012 1.125,3 0.74999,0.750011 1.62499,1.125011 2.625,1.125 1.12499,1.1e-5 1.99999,-0.312489 2.625,-0.9375 0.74999,-0.749988 1.12499,-1.812487 1.125,-3.1875 -1e-5,-1.249984 -0.43751,-2.312483 -1.3125,-3.1875 -0.62501,-0.624982 -1.50001,-0.937481 -2.625,-0.9375 z m 3.9375,17.625 c -3.00001,-0.124999 -5.31251,-0.312499 -6.9375,-0.5625 -0.87501,0.250001 -1.50001,0.562501 -1.875,0.9375 -0.50001,0.5 -0.75,1.0625 -0.75,1.6875 0,0.624998 0.24999,1.187498 0.75,1.6875 0.74999,0.749997 2.37499,1.124996 4.875,1.125 3.37499,-4e-6 5.49998,-0.437503 6.375,-1.3125 0.49998,-0.500002 0.74998,-1.000001 0.75,-1.5 -2e-5,-0.5 -0.18752,-0.9375 -0.5625,-1.3125 -0.50002,-0.499999 -1.37502,-0.749999 -2.625,-0.75 z"
+         style="font-size:48px;font-weight:normal;fill:#008000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4198" />
+      <path
+         d="m 210.5625,6.53125 -8.25,0.9375 0,12 8.25,-0.9375 z m -19.6875,14.4375 7.6875,-0.9375 0,-12 -7.6875,0.75 0,-3.5625 7.6875,-0.75 0,-10.5 3.75,0 0,9.9375 8.25,-0.9375 0,-11.4375 3.75,0 0,10.875 7.6875,-0.9375 0,3.5625 -7.6875,0.9375 0,12 7.6875,-0.9375 0,3.5625 -7.6875,0.9375 0,9.75 -3.75,0 0,-9.1875 -8.25,0.9375 0,10.6875 -3.75,0 0,-10.125 -7.6875,0.9375 z"
+         style="font-size:48px;font-weight:normal;fill:#008000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4200" />
+    </g>
+    <path
        style="fill:#ffffff;fill-opacity:0.27986348;stroke:#ffffff;stroke-opacity:0.44363637;display:inline"
-       id="rect4559-2-2-2-21-1-7-0-42-8-02"
-       width="100"
-       height="100"
-       x="200"
-       y="-300" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3213-98-4-0-68-6-6"
+       d="m 200,-300 100,0 0,100 -100,0 z"
+       id="rect4559-2-2-2-21-1-7-0-42-8-02" />
+    <g
+       transform="translate(59.59375,-262.8125)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold"
-       transform="translate(59.59375,-262.8125)"><flowRegion
-         id="flowRegion3215-3-45-8-14-3-15"><rect
-           id="rect3217-69-2-8-52-0-41"
-           width="194.17232"
-           height="81.417053"
-           x="99.607887"
-           y="-21.782101"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold" /></flowRegion><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-3px;fill:#008000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
-         id="flowPara3219-0-7-9-1-3-50">b♭</flowPara></flowRoot>    <rect
+       id="flowRoot3213-98-4-0-68-6-6">
+      <path
+         d="m 164.71875,-2.84375 3.75,0 0,13.5 c 1.62499,-1.9999789 3.62499,-2.9999779 6,-3 2.49999,2.21e-5 4.56248,0.8125213 6.1875,2.4375 1.99998,2.000018 2.99998,4.875015 3,8.625 -2e-5,3.625007 -1.00002,6.437505 -3,8.4375 -1.62502,1.625001 -3.75001,2.4375 -6.375,2.4375 -2.75001,0 -4.68751,-0.999999 -5.8125,-3 l 0,2.625 -3.75,0 z m 9.5625,13.875 c -1.50001,1.9e-5 -2.87501,0.625018 -4.125,1.875 -1.12501,1.125016 -1.68751,2.687514 -1.6875,4.6875 l 0,2.25 c -1e-5,1.875008 0.62499,3.437507 1.875,4.6875 1.12499,1.125004 2.43749,1.687504 3.9375,1.6875 1.24999,4e-6 2.31249,-0.437496 3.1875,-1.3125 1.37498,-1.374994 2.06248,-3.437492 2.0625,-6.1875 -2e-5,-2.874986 -0.62502,-4.937484 -1.875,-6.1875 -1.00001,-0.999982 -2.12501,-1.499981 -3.375,-1.5 z"
+         style="font-size:48px;font-weight:normal;fill:#008000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4192" />
+      <path
+         d="m 202.96875,29.40625 c 1.62498,-0.999999 3.12498,-2.187497 4.5,-3.5625 2.99997,-2.999993 4.49997,-5.93749 4.5,-8.8125 -3e-5,-1.374986 -0.43753,-2.499985 -1.3125,-3.375 -0.75003,-0.749983 -1.56253,-1.124983 -2.4375,-1.125 -2.12502,1.7e-5 -3.87502,0.375017 -5.25,1.125 z m 4.125,-0.9375 c -1.50002,1 -3.75002,2.374999 -6.75,4.125 l 0,-39.5625 2.625,0 0,19.125 c 1.62498,-0.874982 3.56248,-1.312481 5.8125,-1.3125 2.12497,1.9e-5 3.74997,0.562518 4.875,1.6875 1.24997,1.250016 1.87497,2.875014 1.875,4.875 -3e-5,2.37501 -1.18753,4.750008 -3.5625,7.125 -1.37503,1.375004 -3.00003,2.687503 -4.875,3.9375 z"
+         style="font-size:48px;font-weight:normal;fill:#008000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4194" />
+    </g>
+    <path
        style="fill:#ffffff;fill-opacity:0.27986348;stroke:#ffffff;stroke-opacity:0.44363637;display:inline"
-       id="rect4559-2-2-2-21-1-7-0-42-8-75"
-       width="100"
-       height="100"
-       x="200"
-       y="-200" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3213-98-4-0-68-6-67"
+       d="m 200,-200 100,0 0,100 -100,0 z"
+       id="rect4559-2-2-2-21-1-7-0-42-8-75" />
+    <g
+       transform="translate(59.59375,-162.8125)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold"
-       transform="translate(59.59375,-162.8125)"><flowRegion
-         id="flowRegion3215-3-45-8-14-3-2"><rect
-           id="rect3217-69-2-8-52-0-7"
-           width="194.17232"
-           height="81.417053"
-           x="99.607887"
-           y="-21.782101"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold" /></flowRegion><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-3px;fill:#008000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
-         id="flowPara3219-0-7-9-1-3-3">e♭</flowPara></flowRoot>    <rect
+       id="flowRoot3213-98-4-0-68-6-67">
+      <path
+         d="m 164.4375,18.71875 c 0,-3.374986 1.0625,-6.124983 3.1875,-8.25 1.74999,-1.7499789 3.99999,-2.6249781 6.75,-2.625 2.62499,2.19e-5 4.87498,0.937521 6.75,2.8125 1.74998,1.750017 2.62498,4.437515 2.625,8.0625 l -15.1875,0 c -1e-5,2.625008 0.62499,4.562507 1.875,5.8125 1.12499,1.125004 2.56249,1.687504 4.3125,1.6875 1.74999,4e-6 2.99998,-0.374996 3.75,-1.125 0.87498,-0.874994 1.31248,-1.874993 1.3125,-3 l 4.125,0 c -0.50002,2.250005 -1.31252,3.937504 -2.4375,5.0625 -1.62502,1.625001 -3.87502,2.4375 -6.75,2.4375 -3.00001,0 -5.43751,-0.937499 -7.3125,-2.8125 -2,-1.999995 -3,-4.687492 -3,-8.0625 z m 9.75,-7.6875 c -1.50001,1.9e-5 -2.75001,0.500018 -3.75,1.5 -0.87501,0.875016 -1.43751,1.937515 -1.6875,3.1875 l 10.6875,0 c -2e-5,-1.249985 -0.50002,-2.374984 -1.5,-3.375 -0.87501,-0.874982 -2.12501,-1.312481 -3.75,-1.3125 z"
+         style="font-size:48px;font-weight:normal;fill:#008000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4186" />
+      <path
+         d="m 203.0625,29.40625 c 1.62498,-0.999999 3.12498,-2.187497 4.5,-3.5625 2.99997,-2.999993 4.49997,-5.93749 4.5,-8.8125 -3e-5,-1.374986 -0.43753,-2.499985 -1.3125,-3.375 -0.75003,-0.749983 -1.56253,-1.124983 -2.4375,-1.125 -2.12502,1.7e-5 -3.87502,0.375017 -5.25,1.125 z m 4.125,-0.9375 c -1.50002,1 -3.75002,2.374999 -6.75,4.125 l 0,-39.5625 2.625,0 0,19.125 c 1.62498,-0.874982 3.56248,-1.312481 5.8125,-1.3125 2.12497,1.9e-5 3.74997,0.562518 4.875,1.6875 1.24997,1.250016 1.87497,2.875014 1.875,4.875 -3e-5,2.37501 -1.18753,4.750008 -3.5625,7.125 -1.37503,1.375004 -3.00003,2.687503 -4.875,3.9375 z"
+         style="font-size:48px;font-weight:normal;fill:#008000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4188" />
+    </g>
+    <path
        style="fill:#ffffff;fill-opacity:0.27986348;stroke:#ffffff;stroke-opacity:0.44363637;display:inline"
-       id="rect4559-2-2-2-21-1-7-0-42-8-60"
-       width="100"
-       height="100"
-       x="200"
-       y="-100" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3213-98-4-0-68-6-7"
+       d="m 200,-100 100,0 0,100 -100,0 z"
+       id="rect4559-2-2-2-21-1-7-0-42-8-60" />
+    <g
+       transform="translate(59.59375,-62.8125)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold"
-       transform="translate(59.59375,-62.8125)"><flowRegion
-         id="flowRegion3215-3-45-8-14-3-5"><rect
-           id="rect3217-69-2-8-52-0-5"
-           width="194.17232"
-           height="81.417053"
-           x="99.607887"
-           y="-21.782101"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold" /></flowRegion><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-3px;fill:#008000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
-         id="flowPara3219-0-7-9-1-3-74">d♯</flowPara></flowRoot>    <rect
+       id="flowRoot3213-98-4-0-68-6-7">
+      <path
+         d="m 179.90625,-2.84375 3.75,0 0,32.0625 -3.75,0 0,-2.625 c -1.37502,2.000001 -3.25001,3 -5.625,3 -2.62501,0 -4.68751,-0.749999 -6.1875,-2.25 -2.25,-2.249995 -3.375,-5.124992 -3.375,-8.625 0,-3.749985 1,-6.624982 3,-8.625 1.62499,-1.6249787 3.56249,-2.4374779 5.8125,-2.4375 2.74999,2.21e-5 4.87498,1.0625211 6.375,3.1875 z m -5.8125,13.875 c -1.25001,1.9e-5 -2.37501,0.500018 -3.375,1.5 -1.25001,1.250016 -1.87501,3.312514 -1.875,6.1875 -1e-5,2.750008 0.68749,4.812506 2.0625,6.1875 0.87499,0.875004 1.93749,1.312504 3.1875,1.3125 1.49999,4e-6 2.74999,-0.499996 3.75,-1.5 1.37498,-1.374994 2.06248,-3.374992 2.0625,-6 -2e-5,-2.624986 -0.75002,-4.687484 -2.25,-6.1875 -1.00001,-0.999982 -2.18751,-1.499981 -3.5625,-1.5 z"
+         style="font-size:48px;font-weight:normal;fill:#008000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4180" />
+      <path
+         d="m 211.40625,6.53125 -8.25,0.9375 0,12 8.25,-0.9375 z m -19.6875,14.4375 7.6875,-0.9375 0,-12 -7.6875,0.75 0,-3.5625 7.6875,-0.75 0,-10.5 3.75,0 0,9.9375 8.25,-0.9375 0,-11.4375 3.75,0 0,10.875 7.6875,-0.9375 0,3.5625 -7.6875,0.9375 0,12 7.6875,-0.9375 0,3.5625 -7.6875,0.9375 0,9.75 -3.75,0 0,-9.1875 -8.25,0.9375 0,10.6875 -3.75,0 0,-10.125 -7.6875,0.9375 z"
+         style="font-size:48px;font-weight:normal;fill:#008000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4182" />
+    </g>
+    <path
        style="fill:#ffffff;fill-opacity:0.27986348;stroke:#ffffff;stroke-opacity:0.44363637;display:inline"
-       id="rect4559-2-2-2-21-1-7-0-42-8-600"
-       width="100"
-       height="100"
-       x="200"
-       y="0" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3213-98-4-0-68-6-9"
+       d="m 200,0 100,0 0,100 -100,0 z"
+       id="rect4559-2-2-2-21-1-7-0-42-8-600" />
+    <g
+       transform="translate(59.59375,37.1875)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold"
-       transform="translate(59.59375,37.1875)"><flowRegion
-         id="flowRegion3215-3-45-8-14-3-53"><rect
-           id="rect3217-69-2-8-52-0-45"
-           width="194.17232"
-           height="81.417053"
-           x="99.607887"
-           y="-21.782101"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold" /></flowRegion><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-3px;fill:#008000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
-         id="flowPara3219-0-7-9-1-3-12">b♭</flowPara></flowRoot>    <rect
+       id="flowRoot3213-98-4-0-68-6-9">
+      <path
+         d="m 164.71875,-2.84375 3.75,0 0,13.5 c 1.62499,-1.9999789 3.62499,-2.9999779 6,-3 2.49999,2.21e-5 4.56248,0.8125213 6.1875,2.4375 1.99998,2.000018 2.99998,4.875015 3,8.625 -2e-5,3.625007 -1.00002,6.437505 -3,8.4375 -1.62502,1.625001 -3.75001,2.4375 -6.375,2.4375 -2.75001,0 -4.68751,-0.999999 -5.8125,-3 l 0,2.625 -3.75,0 z m 9.5625,13.875 c -1.50001,1.9e-5 -2.87501,0.625018 -4.125,1.875 -1.12501,1.125016 -1.68751,2.687514 -1.6875,4.6875 l 0,2.25 c -1e-5,1.875008 0.62499,3.437507 1.875,4.6875 1.12499,1.125004 2.43749,1.687504 3.9375,1.6875 1.24999,4e-6 2.31249,-0.437496 3.1875,-1.3125 1.37498,-1.374994 2.06248,-3.437492 2.0625,-6.1875 -2e-5,-2.874986 -0.62502,-4.937484 -1.875,-6.1875 -1.00001,-0.999982 -2.12501,-1.499981 -3.375,-1.5 z"
+         style="font-size:48px;font-weight:normal;fill:#008000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4174" />
+      <path
+         d="m 202.96875,29.40625 c 1.62498,-0.999999 3.12498,-2.187497 4.5,-3.5625 2.99997,-2.999993 4.49997,-5.93749 4.5,-8.8125 -3e-5,-1.374986 -0.43753,-2.499985 -1.3125,-3.375 -0.75003,-0.749983 -1.56253,-1.124983 -2.4375,-1.125 -2.12502,1.7e-5 -3.87502,0.375017 -5.25,1.125 z m 4.125,-0.9375 c -1.50002,1 -3.75002,2.374999 -6.75,4.125 l 0,-39.5625 2.625,0 0,19.125 c 1.62498,-0.874982 3.56248,-1.312481 5.8125,-1.3125 2.12497,1.9e-5 3.74997,0.562518 4.875,1.6875 1.24997,1.250016 1.87497,2.875014 1.875,4.875 -3e-5,2.37501 -1.18753,4.750008 -3.5625,7.125 -1.37503,1.375004 -3.00003,2.687503 -4.875,3.9375 z"
+         style="font-size:48px;font-weight:normal;fill:#008000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4176" />
+    </g>
+    <path
        style="fill:#ffffff;fill-opacity:0.27986348;stroke:#ffffff;stroke-opacity:0.44363637;display:inline"
-       id="rect4559-2-2-2-21-1-7-0-42-8-8"
-       width="100"
-       height="100"
-       x="200"
-       y="100" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3213-98-4-0-68-6-08"
+       d="m 200,100 100,0 0,100 -100,0 z"
+       id="rect4559-2-2-2-21-1-7-0-42-8-8" />
+    <g
+       transform="translate(59.59375,137.1875)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold"
-       transform="translate(59.59375,137.1875)"><flowRegion
-         id="flowRegion3215-3-45-8-14-3-4"><rect
-           id="rect3217-69-2-8-52-0-29"
-           width="194.17232"
-           height="81.417053"
-           x="99.607887"
-           y="-21.782101"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold" /></flowRegion><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-3px;fill:#008000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
-         id="flowPara3219-0-7-9-1-3-2">b♭</flowPara></flowRoot>    <rect
+       id="flowRoot3213-98-4-0-68-6-08">
+      <path
+         d="m 164.71875,-2.84375 3.75,0 0,13.5 c 1.62499,-1.9999789 3.62499,-2.9999779 6,-3 2.49999,2.21e-5 4.56248,0.8125213 6.1875,2.4375 1.99998,2.000018 2.99998,4.875015 3,8.625 -2e-5,3.625007 -1.00002,6.437505 -3,8.4375 -1.62502,1.625001 -3.75001,2.4375 -6.375,2.4375 -2.75001,0 -4.68751,-0.999999 -5.8125,-3 l 0,2.625 -3.75,0 z m 9.5625,13.875 c -1.50001,1.9e-5 -2.87501,0.625018 -4.125,1.875 -1.12501,1.125016 -1.68751,2.687514 -1.6875,4.6875 l 0,2.25 c -1e-5,1.875008 0.62499,3.437507 1.875,4.6875 1.12499,1.125004 2.43749,1.687504 3.9375,1.6875 1.24999,4e-6 2.31249,-0.437496 3.1875,-1.3125 1.37498,-1.374994 2.06248,-3.437492 2.0625,-6.1875 -2e-5,-2.874986 -0.62502,-4.937484 -1.875,-6.1875 -1.00001,-0.999982 -2.12501,-1.499981 -3.375,-1.5 z"
+         style="font-size:48px;font-weight:normal;fill:#008000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4168" />
+      <path
+         d="m 202.96875,29.40625 c 1.62498,-0.999999 3.12498,-2.187497 4.5,-3.5625 2.99997,-2.999993 4.49997,-5.93749 4.5,-8.8125 -3e-5,-1.374986 -0.43753,-2.499985 -1.3125,-3.375 -0.75003,-0.749983 -1.56253,-1.124983 -2.4375,-1.125 -2.12502,1.7e-5 -3.87502,0.375017 -5.25,1.125 z m 4.125,-0.9375 c -1.50002,1 -3.75002,2.374999 -6.75,4.125 l 0,-39.5625 2.625,0 0,19.125 c 1.62498,-0.874982 3.56248,-1.312481 5.8125,-1.3125 2.12497,1.9e-5 3.74997,0.562518 4.875,1.6875 1.24997,1.250016 1.87497,2.875014 1.875,4.875 -3e-5,2.37501 -1.18753,4.750008 -3.5625,7.125 -1.37503,1.375004 -3.00003,2.687503 -4.875,3.9375 z"
+         style="font-size:48px;font-weight:normal;fill:#008000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4170" />
+    </g>
+    <path
        style="fill:#ffffff;fill-opacity:0.27986348;stroke:#ffffff;stroke-opacity:0.44363637;display:inline"
-       id="rect4559-2-2-2-21-1-7-0-42-8-4"
-       width="100"
-       height="100"
-       x="200"
-       y="200" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3213-98-4-0-68-6-13"
+       d="m 200,200 100,0 0,100 -100,0 z"
+       id="rect4559-2-2-2-21-1-7-0-42-8-4" />
+    <g
+       transform="translate(55.59375,237.1875)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold"
-       transform="translate(55.59375,237.1875)"><flowRegion
-         id="flowRegion3215-3-45-8-14-3-27"><rect
-           id="rect3217-69-2-8-52-0-27"
-           width="194.17232"
-           height="81.417053"
-           x="99.607887"
-           y="-21.782101"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold" /></flowRegion><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-3px;fill:#008000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
-         id="flowPara3219-0-7-9-1-3-14">f</flowPara></flowRoot>    <rect
+       id="flowRoot3213-98-4-0-68-6-13">
+      <path
+         d="m 197.625,8.21875 6.375,0 0,3 -6.375,0 0,18 -3.75,0 0,-18 -4.5,0 0,-3 4.5,0 0,-5.25 c 0,-1.7499714 0.56249,-3.18747 1.6875,-4.3125 1.24999,-1.2499676 2.93749,-1.874967 5.0625,-1.875 1.62499,3.3e-5 3.31249,0.3125327 5.0625,0.9375 l 0,3.75 c -1.75001,-0.87497081 -3.18751,-1.31247038 -4.3125,-1.3125 -1.37501,2.962e-5 -2.37501,0.31252931 -3,0.9375 -0.50001,0.5000282 -0.75001,1.1250276 -0.75,1.875 z"
+         style="font-size:48px;font-weight:normal;fill:#008000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4164" />
+    </g>
+    <path
        style="fill:#ffffff;fill-opacity:0.27986348;stroke:#ffffff;stroke-opacity:0.44363637;display:inline"
-       id="rect4559-2-2-2-21-1-7-0-42-8-86"
-       width="100"
-       height="100"
-       x="200"
-       y="300" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3213-98-4-0-68-6-8"
+       d="m 200,300 100,0 0,100 -100,0 z"
+       id="rect4559-2-2-2-21-1-7-0-42-8-86" />
+    <g
+       transform="translate(55.59375,337.1875)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold"
-       transform="translate(55.59375,337.1875)"><flowRegion
-         id="flowRegion3215-3-45-8-14-3-95"><rect
-           id="rect3217-69-2-8-52-0-454"
-           width="194.17232"
-           height="81.417053"
-           x="99.607887"
-           y="-21.782101"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold" /></flowRegion><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-3px;fill:#008000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
-         id="flowPara3219-0-7-9-1-3-0">c</flowPara></flowRoot>    <rect
+       id="flowRoot3213-98-4-0-68-6-8">
+      <path
+         d="m 186.9375,18.90625 c 0,-3.374986 1,-6.062483 3,-8.0625 1.87499,-1.8749792 4.18749,-2.8124782 6.9375,-2.8125 2.99998,2.18e-5 5.24998,0.750021 6.75,2.25 1.37498,1.375018 2.18748,3.062516 2.4375,5.0625 l -4.125,0 c -0.12502,-0.999985 -0.62502,-1.937484 -1.5,-2.8125 -0.75002,-0.749982 -1.87501,-1.124982 -3.375,-1.125 -1.50001,1.8e-5 -2.75001,0.500018 -3.75,1.5 -1.50001,1.500015 -2.25001,3.562513 -2.25,6.1875 -1e-5,2.500008 0.68749,4.437506 2.0625,5.8125 0.99999,1.000004 2.24999,1.500003 3.75,1.5 1.74999,3e-6 3.12498,-0.499996 4.125,-1.5 0.99998,-0.999994 1.49998,-2.312493 1.5,-3.9375 l 4.125,0 c -0.12502,2.625006 -1.00002,4.750004 -2.625,6.375 -1.62502,1.625001 -4.00002,2.4375 -7.125,2.4375 -2.62501,0 -4.81251,-0.874999 -6.5625,-2.625 -2.25,-2.249995 -3.375,-4.999992 -3.375,-8.25 z"
+         style="font-size:48px;font-weight:normal;fill:#008000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4160" />
+    </g>
+    <path
        style="fill:#ffffff;fill-opacity:0.27986348;stroke:#ffffff;stroke-opacity:0.44363637;display:inline"
-       id="rect4559-2-2-2-21-1-7-0-42-8-45"
-       width="100"
-       height="100"
-       x="200"
-       y="400" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3213-98-4-0-68-6-3"
+       d="m 200,400 100,0 0,100 -100,0 z"
+       id="rect4559-2-2-2-21-1-7-0-42-8-45" />
+    <g
+       transform="translate(55.59375,437.1875)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold"
-       transform="translate(55.59375,437.1875)"><flowRegion
-         id="flowRegion3215-3-45-8-14-3-67"><rect
-           id="rect3217-69-2-8-52-0-73"
-           width="194.17232"
-           height="81.417053"
-           x="99.607887"
-           y="-21.782101"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold" /></flowRegion><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-3px;fill:#008000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
-         id="flowPara3219-0-7-9-1-3-29">g</flowPara></flowRoot>    <rect
+       id="flowRoot3213-98-4-0-68-6-3">
+      <path
+         d="m 188.8125,15.15625 c 0,-2.124983 0.6875,-3.874982 2.0625,-5.25 1.37499,-1.3749787 3.12499,-2.0624781 5.25,-2.0625 1.99999,2.19e-5 3.74999,0.6250213 5.25,1.875 1.24998,-1.2499787 2.74998,-1.8749781 4.5,-1.875 l 1.6875,0 0,3.5625 c -1.50002,-0.624981 -3.18752,-0.687481 -5.0625,-0.1875 0.87498,1.125017 1.31248,2.437516 1.3125,3.9375 -2e-5,2.250012 -0.68752,4.062511 -2.0625,5.4375 -1.25001,1.250008 -3.06251,1.875007 -5.4375,1.875 -1.25001,7e-6 -2.56251,-0.312492 -3.9375,-0.9375 -0.62501,0.500008 -0.93751,1.000007 -0.9375,1.5 -1e-5,0.375006 0.12499,0.687506 0.375,0.9375 0.62499,0.625005 2.06249,1.000005 4.3125,1.125 1.99999,0.125005 4.12499,0.250004 6.375,0.375 1.24998,0.250004 2.18748,0.687504 2.8125,1.3125 0.99998,1.000002 1.49998,2.187501 1.5,3.5625 -2e-5,1.499998 -0.50002,2.749997 -1.5,3.75 -1.37502,1.374994 -4.37502,2.062494 -9,2.0625 -3.87501,-6e-6 -6.5,-0.687506 -7.875,-2.0625 -0.875,-0.875003 -1.3125,-1.937502 -1.3125,-3.1875 0,-0.875 0.3125,-1.625 0.9375,-2.25 0.5,-0.499998 1.25,-0.999998 2.25,-1.5 -0.375,-0.249997 -0.8125,-0.624997 -1.3125,-1.125 -0.625,-0.624996 -0.9375,-1.437495 -0.9375,-2.4375 0,-1.249993 0.9375,-2.437491 2.8125,-3.5625 -1.375,-1.374989 -2.0625,-2.999987 -2.0625,-4.875 z m 7.3125,-4.125 c -0.87501,1.9e-5 -1.62501,0.312518 -2.25,0.9375 -0.87501,0.875017 -1.31251,1.937516 -1.3125,3.1875 -1e-5,1.250013 0.37499,2.250012 1.125,3 0.74999,0.750011 1.62499,1.125011 2.625,1.125 1.12499,1.1e-5 1.99999,-0.312489 2.625,-0.9375 0.74999,-0.749988 1.12499,-1.812487 1.125,-3.1875 -1e-5,-1.249984 -0.43751,-2.312483 -1.3125,-3.1875 -0.62501,-0.624982 -1.50001,-0.937481 -2.625,-0.9375 z m 3.9375,17.625 c -3.00001,-0.124999 -5.31251,-0.312499 -6.9375,-0.5625 -0.87501,0.250001 -1.50001,0.562501 -1.875,0.9375 -0.50001,0.5 -0.75,1.0625 -0.75,1.6875 0,0.624998 0.24999,1.187498 0.75,1.6875 0.74999,0.749997 2.37499,1.124996 4.875,1.125 3.37499,-4e-6 5.49998,-0.437503 6.375,-1.3125 0.49998,-0.500002 0.74998,-1.000001 0.75,-1.5 -2e-5,-0.5 -0.18752,-0.9375 -0.5625,-1.3125 -0.50002,-0.499999 -1.37502,-0.749999 -2.625,-0.75 z"
+         style="font-size:48px;font-weight:normal;fill:#008000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4156" />
+    </g>
+    <path
        style="fill:#ffffff;fill-opacity:0.27986348;stroke:#ffffff;stroke-opacity:0.44363637;display:inline"
-       id="rect4559-2-2-2-21-1-7-0-42-8-32"
-       width="100"
-       height="100"
-       x="200"
-       y="500" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3213-98-4-0-68-6-19"
+       d="m 200,500 100,0 0,100 -100,0 z"
+       id="rect4559-2-2-2-21-1-7-0-42-8-32" />
+    <g
+       transform="translate(55.59375,537.1875)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold"
-       transform="translate(55.59375,537.1875)"><flowRegion
-         id="flowRegion3215-3-45-8-14-3-8"><rect
-           id="rect3217-69-2-8-52-0-42"
-           width="194.17232"
-           height="81.417053"
-           x="99.607887"
-           y="-21.782101"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold" /></flowRegion><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-3px;fill:#008000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
-         id="flowPara3219-0-7-9-1-3-75">d</flowPara></flowRoot>    <rect
+       id="flowRoot3213-98-4-0-68-6-19">
+      <path
+         d="m 202.40625,-2.84375 3.75,0 0,32.0625 -3.75,0 0,-2.625 c -1.37502,2.000001 -3.25001,3 -5.625,3 -2.62501,0 -4.68751,-0.749999 -6.1875,-2.25 -2.25,-2.249995 -3.375,-5.124992 -3.375,-8.625 0,-3.749985 1,-6.624982 3,-8.625 1.62499,-1.6249787 3.56249,-2.4374779 5.8125,-2.4375 2.74999,2.21e-5 4.87498,1.0625211 6.375,3.1875 z m -5.8125,13.875 c -1.25001,1.9e-5 -2.37501,0.500018 -3.375,1.5 -1.25001,1.250016 -1.87501,3.312514 -1.875,6.1875 -1e-5,2.750008 0.68749,4.812506 2.0625,6.1875 0.87499,0.875004 1.93749,1.312504 3.1875,1.3125 1.49999,4e-6 2.74999,-0.499996 3.75,-1.5 1.37498,-1.374994 2.06248,-3.374992 2.0625,-6 -2e-5,-2.624986 -0.75002,-4.687484 -2.25,-6.1875 -1.00001,-0.999982 -2.18751,-1.499981 -3.5625,-1.5 z"
+         style="font-size:48px;font-weight:normal;fill:#008000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4152" />
+    </g>
+    <path
        style="fill:#ffffff;fill-opacity:0.27986348;stroke:#ffffff;stroke-opacity:0.44363637;display:inline"
-       id="rect4559-2-2-2-21-1-7-0-4-1-7-3"
-       width="100"
-       height="100"
-       x="300"
-       y="-700" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3213-98-4-0-3-9-6-3"
+       d="m 300,-700 100,0 0,100 -100,0 z"
+       id="rect4559-2-2-2-21-1-7-0-4-1-7-3" />
+    <g
+       transform="translate(154.90625,-662.625)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold"
-       transform="translate(154.90625,-662.625)"><flowRegion
-         id="flowRegion3215-3-45-8-8-6-9-8"><rect
-           id="rect3217-69-2-8-7-14-4-9"
-           width="194.17232"
-           height="81.417053"
-           x="99.607887"
-           y="-21.782101"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold" /></flowRegion><flowPara
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-3px;fill:#000000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
-         id="flowPara3219-0-7-9-6-45-1-5">2♯</flowPara></flowRoot>    <rect
+       id="flowRoot3213-98-4-0-3-9-6-3">
+      <path
+         d="m 170.84375,3.0625 c 0,-3.22914531 0.83333,-5.6770595 2.5,-7.34375 1.35416,-1.3541398 2.96874,-2.0312225 4.84375,-2.03125 2.29165,2.75e-5 4.11457,0.6771102 5.46875,2.03125 1.35415,1.3541908 2.03123,3.0208558 2.03125,5 -2e-5,2.500018 -0.78127,4.6875158 -2.34375,6.5625 -1.45835,1.7708455 -2.96876,3.489594 -4.53125,5.15625 -0.83334,0.937508 -1.66668,1.875007 -2.5,2.8125 -0.72917,0.833338 -1.35417,1.666671 -1.875,2.5 l 11.71875,0 0,2.96875 -15.9375,0 0,-2.65625 c 0.20833,-1.041663 1.09375,-2.499994 2.65625,-4.375 2.60416,-2.81249 4.73957,-5.1562373 6.40625,-7.03125 1.77082,-1.8749836 2.65624,-3.8541483 2.65625,-5.9375 -1e-5,-1.24997828 -0.41668,-2.2916439 -1.25,-3.125 -0.62501,-0.6249758 -1.40626,-0.9374755 -2.34375,-0.9375 -0.83334,2.45e-5 -1.56251,0.3125242 -2.1875,0.9375 -1.14584,1.1458558 -1.71876,2.96877063 -1.71875,5.46875 z"
+         style="font-size:40px;font-weight:normal;fill:#000000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4146" />
+      <path
+         d="m 208.78125,1.8125 -6.875,0.78125 0,10 6.875,-0.78125 z m -16.40625,12.03125 6.40625,-0.78125 0,-10 -6.40625,0.625 0,-2.96875 6.40625,-0.625 0,-8.75 3.125,0 0,8.28125 6.875,-0.78125 0,-9.53125 3.125,0 0,9.0625 6.40625,-0.78125 0,2.96875 -6.40625,0.78125 0,10 6.40625,-0.78125 0,2.96875 -6.40625,0.78125 0,8.125 -3.125,0 0,-7.65625 -6.875,0.78125 0,8.90625 -3.125,0 0,-8.4375 -6.40625,0.78125 z"
+         style="font-size:40px;font-weight:normal;fill:#000000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4148" />
+    </g>
+    <path
        style="fill:#ffffff;fill-opacity:0.27986348;stroke:#ffffff;stroke-opacity:0.44363637;display:inline"
-       id="rect4559-2-2-2-21-1-7-0-4-1-7-3-1"
-       width="100"
-       height="100"
-       x="300"
-       y="-600" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3213-98-4-0-3-9-6-3-9"
+       d="m 300,-600 100,0 0,100 -100,0 z"
+       id="rect4559-2-2-2-21-1-7-0-4-1-7-3-1" />
+    <g
+       transform="translate(154.90625,-562.625)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold"
-       transform="translate(154.90625,-562.625)"><flowRegion
-         id="flowRegion3215-3-45-8-8-6-9-8-2"><rect
-           id="rect3217-69-2-8-7-14-4-9-9"
-           width="194.17232"
-           height="81.417053"
-           x="99.607887"
-           y="-21.782101"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold" /></flowRegion><flowPara
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-3px;fill:#000000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
-         id="flowPara3219-0-7-9-6-45-1-5-2">3♯</flowPara></flowRoot>    <rect
+       id="flowRoot3213-98-4-0-3-9-6-3-9">
+      <path
+         d="m 170.84375,1.65625 c 0,-2.39581141 0.78125,-4.3749761 2.34375,-5.9375 1.35416,-1.3541398 3.02083,-2.0312225 5,-2.03125 2.29165,2.75e-5 4.11457,0.6771102 5.46875,2.03125 1.24998,1.2500242 1.87498,2.9166892 1.875,5 -2e-5,2.0833517 -0.52085,3.6458502 -1.5625,4.6875 -0.72918,0.7291817 -1.51043,1.145848 -2.34375,1.25 1.04165,0.3125142 1.92707,0.833347 2.65625,1.5625 1.24998,1.2500117 1.87498,2.916677 1.875,5 -2e-5,2.291672 -0.72918,4.16667 -2.1875,5.625 -1.45835,1.458334 -3.4896,2.1875 -6.09375,2.1875 -2.18751,0 -4.01042,-0.729166 -5.46875,-2.1875 -1.45834,-1.45833 -2.1875,-3.177078 -2.1875,-5.15625 l 0,-1.25 3.59375,0 0,1.09375 c -1e-5,1.354173 0.46874,2.500005 1.40625,3.4375 0.72916,0.72917 1.61457,1.093753 2.65625,1.09375 1.35416,3e-6 2.4479,-0.416663 3.28125,-1.25 0.83332,-0.833328 1.24999,-2.13541 1.25,-3.90625 -1e-5,-1.458324 -0.41668,-2.604156 -1.25,-3.4375 -0.83335,-0.8333208 -1.77084,-1.249987 -2.8125,-1.25 l -1.25,0 0,-2.65625 0.9375,0 c 0.93749,1.56e-5 1.8229,-0.4166506 2.65625,-1.25 0.83332,-0.8333156 1.24999,-2.0312311 1.25,-3.59375 -1e-5,-1.35414484 -0.41668,-2.4478937 -1.25,-3.28125 -0.62501,-0.6249756 -1.45834,-0.9374753 -2.5,-0.9375 -0.93751,2.47e-5 -1.77084,0.3646077 -2.5,1.09375 -0.83334,0.8333561 -1.30209,2.18752141 -1.40625,4.0625 z"
+         style="font-size:40px;font-weight:normal;fill:#000000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4140" />
+      <path
+         d="m 208.78125,1.8125 -6.875,0.78125 0,10 6.875,-0.78125 z m -16.40625,12.03125 6.40625,-0.78125 0,-10 -6.40625,0.625 0,-2.96875 6.40625,-0.625 0,-8.75 3.125,0 0,8.28125 6.875,-0.78125 0,-9.53125 3.125,0 0,9.0625 6.40625,-0.78125 0,2.96875 -6.40625,0.78125 0,10 6.40625,-0.78125 0,2.96875 -6.40625,0.78125 0,8.125 -3.125,0 0,-7.65625 -6.875,0.78125 0,8.90625 -3.125,0 0,-8.4375 -6.40625,0.78125 z"
+         style="font-size:40px;font-weight:normal;fill:#000000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4142" />
+    </g>
+    <path
        style="fill:#ffffff;fill-opacity:0.27986348;stroke:#ffffff;stroke-opacity:0.44363637;display:inline"
-       id="rect4559-2-2-2-21-1-7-0-4-1-7-3-6"
-       width="100"
-       height="100"
-       x="300"
-       y="-500" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3213-98-4-0-3-9-6-3-4"
+       d="m 300,-500 100,0 0,100 -100,0 z"
+       id="rect4559-2-2-2-21-1-7-0-4-1-7-3-6" />
+    <g
+       transform="translate(154.90625,-462.625)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold"
-       transform="translate(154.90625,-462.625)"><flowRegion
-         id="flowRegion3215-3-45-8-8-6-9-8-28"><rect
-           id="rect3217-69-2-8-7-14-4-9-8"
-           width="194.17232"
-           height="81.417053"
-           x="99.607887"
-           y="-21.782101"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold" /></flowRegion><flowPara
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-3px;fill:#000000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
-         id="flowPara3219-0-7-9-6-45-1-5-1">4♯</flowPara></flowRoot>    <rect
+       id="flowRoot3213-98-4-0-3-9-6-3-4">
+      <path
+         d="m 180.0625,-6.3125 3.59375,0 0,17.1875 3.28125,0 0,2.96875 -3.28125,0 0,6.875 -3.59375,0 0,-6.875 -10.46875,0 0,-3.125 z m 0,5.78125 -7.03125,11.40625 7.03125,0 z"
+         style="font-size:40px;font-weight:normal;fill:#000000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4134" />
+      <path
+         d="m 208.78125,1.8125 -6.875,0.78125 0,10 6.875,-0.78125 z m -16.40625,12.03125 6.40625,-0.78125 0,-10 -6.40625,0.625 0,-2.96875 6.40625,-0.625 0,-8.75 3.125,0 0,8.28125 6.875,-0.78125 0,-9.53125 3.125,0 0,9.0625 6.40625,-0.78125 0,2.96875 -6.40625,0.78125 0,10 6.40625,-0.78125 0,2.96875 -6.40625,0.78125 0,8.125 -3.125,0 0,-7.65625 -6.875,0.78125 0,8.90625 -3.125,0 0,-8.4375 -6.40625,0.78125 z"
+         style="font-size:40px;font-weight:normal;fill:#000000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4136" />
+    </g>
+    <path
        style="fill:#ffffff;fill-opacity:0.27986348;stroke:#ffffff;stroke-opacity:0.44363637;display:inline"
-       id="rect4559-2-2-2-21-1-7-0-4-1-7-3-2"
-       width="100"
-       height="100"
-       x="300"
-       y="-400" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3213-98-4-0-3-9-6-3-7"
+       d="m 300,-400 100,0 0,100 -100,0 z"
+       id="rect4559-2-2-2-21-1-7-0-4-1-7-3-2" />
+    <g
+       transform="translate(154.90625,-362.625)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold"
-       transform="translate(154.90625,-362.625)"><flowRegion
-         id="flowRegion3215-3-45-8-8-6-9-8-24"><rect
-           id="rect3217-69-2-8-7-14-4-9-2"
-           width="194.17232"
-           height="81.417053"
-           x="99.607887"
-           y="-21.782101"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold" /></flowRegion><flowPara
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-3px;fill:#000000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
-         id="flowPara3219-0-7-9-6-45-1-5-0">5♯</flowPara></flowRoot>    <rect
+       id="flowRoot3213-98-4-0-3-9-6-3-7">
+      <path
+         d="m 172.09375,-6 13.4375,0 0,2.96875 -10.46875,0 0,0.46875 c -0.10417,1.97918844 -0.26042,3.9062698 -0.46875,5.78125 -0.10417,0.3125177 -0.15626,0.6250173 -0.15625,0.9375 1.35416,-1.2499817 2.81249,-1.8749811 4.375,-1.875 2.08332,1.89e-5 3.80207,0.6771016 5.15625,2.03125 1.45832,1.4583488 2.18748,3.5937633 2.1875,6.40625 -2e-5,3.541674 -0.93752,6.250004 -2.8125,8.125 -1.45835,1.458334 -3.28126,2.1875 -5.46875,2.1875 -2.08334,0 -3.80209,-0.677083 -5.15625,-2.03125 -1.35417,-1.354163 -2.1875,-3.385411 -2.5,-6.09375 l 3.59375,0 c 0.20833,1.979173 0.72916,3.385422 1.5625,4.21875 0.62499,0.625003 1.40624,0.937503 2.34375,0.9375 1.24999,3e-6 2.23957,-0.36458 2.96875,-1.09375 1.14582,-1.145828 1.71874,-3.072909 1.71875,-5.78125 -1e-5,-2.6041541 -0.46876,-4.3749856 -1.40625,-5.3125 -0.62501,-0.6249841 -1.35418,-0.9374837 -2.1875,-0.9375 -1.25001,1.63e-5 -2.34376,0.4687658 -3.28125,1.40625 -0.62501,0.6250142 -1.04167,1.0937638 -1.25,1.40625 l -3.125,0 c 0.10416,-0.4166528 0.15625,-0.7812358 0.15625,-1.09375 L 172.09375,-5.375 z"
+         style="font-size:40px;font-weight:normal;fill:#000000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4128" />
+      <path
+         d="m 208.78125,1.8125 -6.875,0.78125 0,10 6.875,-0.78125 z m -16.40625,12.03125 6.40625,-0.78125 0,-10 -6.40625,0.625 0,-2.96875 6.40625,-0.625 0,-8.75 3.125,0 0,8.28125 6.875,-0.78125 0,-9.53125 3.125,0 0,9.0625 6.40625,-0.78125 0,2.96875 -6.40625,0.78125 0,10 6.40625,-0.78125 0,2.96875 -6.40625,0.78125 0,8.125 -3.125,0 0,-7.65625 -6.875,0.78125 0,8.90625 -3.125,0 0,-8.4375 -6.40625,0.78125 z"
+         style="font-size:40px;font-weight:normal;fill:#000000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4130" />
+    </g>
+    <path
        style="fill:#ffffff;fill-opacity:0.27986348;stroke:#ffffff;stroke-opacity:0.44363637;display:inline"
-       id="rect4559-2-2-2-21-1-7-0-4-1-7-3-12"
-       width="100"
-       height="100"
-       x="300"
-       y="-300" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3213-98-4-0-3-9-6-3-6"
+       d="m 300,-300 100,0 0,100 -100,0 z"
+       id="rect4559-2-2-2-21-1-7-0-4-1-7-3-12" />
+    <g
+       transform="translate(154.90625,-262.625)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold"
-       transform="translate(154.90625,-262.625)"><flowRegion
-         id="flowRegion3215-3-45-8-8-6-9-8-8"><rect
-           id="rect3217-69-2-8-7-14-4-9-4"
-           width="194.17232"
-           height="81.417053"
-           x="99.607887"
-           y="-21.782101"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold" /></flowRegion><flowPara
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-3px;fill:#000000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
-         id="flowPara3219-0-7-9-6-45-1-5-4">7♭</flowPara></flowRoot>    <rect
+       id="flowRoot3213-98-4-0-3-9-6-3-6">
+      <path
+         d="m 170.84375,-6 14.84375,0 0,3.4375 -7.5,23.28125 -3.4375,0 7.5,-23.75 -11.40625,0 z"
+         style="font-size:40px;font-weight:normal;fill:#000000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4122" />
+      <path
+         d="m 201.75,20.875 c 1.35415,-0.833332 2.60415,-1.822915 3.75,-2.96875 2.49998,-2.499994 3.74998,-4.947908 3.75,-7.34375 -2e-5,-1.1458216 -0.36461,-2.0833206 -1.09375,-2.8125 -0.62502,-0.6249859 -1.30211,-0.9374856 -2.03125,-0.9375 -1.77085,1.44e-5 -3.22918,0.3125141 -4.375,0.9375 z m 3.4375,-0.78125 c -1.25002,0.833334 -3.12502,1.979166 -5.625,3.4375 l 0,-32.96875 2.1875,0 0,15.9375 c 1.35415,-0.7291512 2.96873,-1.0937342 4.84375,-1.09375 1.77081,1.58e-5 3.12498,0.4687653 4.0625,1.40625 1.04164,1.04168 1.56247,2.3958453 1.5625,4.0625 -3e-5,1.979175 -0.98961,3.95834 -2.96875,5.9375 -1.14586,1.145837 -2.50002,2.239585 -4.0625,3.28125 z"
+         style="font-size:40px;font-weight:normal;fill:#000000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4124" />
+    </g>
+    <path
        style="fill:#ffffff;fill-opacity:0.27986348;stroke:#ffffff;stroke-opacity:0.44363637;display:inline"
-       id="rect4559-2-2-2-21-1-7-0-4-1-7-3-8"
-       width="100"
-       height="100"
-       x="300"
-       y="-200" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3213-98-4-0-3-9-6-3-0"
+       d="m 300,-200 100,0 0,100 -100,0 z"
+       id="rect4559-2-2-2-21-1-7-0-4-1-7-3-8" />
+    <g
+       transform="translate(154.90625,-162.625)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold"
-       transform="translate(154.90625,-162.625)"><flowRegion
-         id="flowRegion3215-3-45-8-8-6-9-8-9"><rect
-           id="rect3217-69-2-8-7-14-4-9-7"
-           width="194.17232"
-           height="81.417053"
-           x="99.607887"
-           y="-21.782101"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold" /></flowRegion><flowPara
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-3px;fill:#000000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
-         id="flowPara3219-0-7-9-6-45-1-5-7">6♭</flowPara></flowRoot>    <rect
+       id="flowRoot3213-98-4-0-3-9-6-3-0">
+      <path
+         d="m 170.375,7.90625 c 0,-5.7291477 1.25,-9.8437269 3.75,-12.34375 1.24999,-1.2499731 2.81249,-1.8749725 4.6875,-1.875 1.97915,2.75e-5 3.59374,0.6250269 4.84375,1.875 1.35415,1.3541909 2.03123,3.0729392 2.03125,5.15625 l -3.59375,0 c -1e-5,-1.45831141 -0.31251,-2.499977 -0.9375,-3.125 -0.62501,-0.6249758 -1.40626,-0.9374755 -2.34375,-0.9375 -0.93751,2.45e-5 -1.71876,0.3125242 -2.34375,0.9375 -1.66667,1.66668859 -2.50001,4.5833523 -2.5,8.75 0.41666,-0.7291511 0.93749,-1.4062337 1.5625,-2.03125 0.93749,-0.9374822 2.08332,-1.4062317 3.4375,-1.40625 1.87499,1.83e-5 3.43749,0.6250177 4.6875,1.875 1.56248,1.5625148 2.34373,3.9062625 2.34375,7.03125 -2e-5,3.229173 -0.83335,5.677087 -2.5,7.34375 -1.25001,1.250001 -2.96876,1.875 -5.15625,1.875 -1.87501,0 -3.59376,-0.781249 -5.15625,-2.34375 -1.875,-1.874996 -2.8125,-5.468742 -2.8125,-10.78125 z m 8.28125,-2.1875 c -1.04168,1.55e-5 -1.92709,0.3645984 -2.65625,1.09375 -1.14584,1.1458466 -1.71876,2.708345 -1.71875,4.6875 -1e-5,2.500007 0.62499,4.375005 1.875,5.625 0.72916,0.72917 1.51041,1.093753 2.34375,1.09375 0.93749,3e-6 1.71874,-0.312497 2.34375,-0.9375 0.93749,-0.937495 1.40624,-2.76041 1.40625,-5.46875 -1e-5,-2.3958216 -0.46876,-4.0624866 -1.40625,-5 -0.72918,-0.7291516 -1.45834,-1.0937345 -2.1875,-1.09375 z"
+         style="font-size:40px;font-weight:normal;fill:#000000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4116" />
+      <path
+         d="m 201.75,20.875 c 1.35415,-0.833332 2.60415,-1.822915 3.75,-2.96875 2.49998,-2.499994 3.74998,-4.947908 3.75,-7.34375 -2e-5,-1.1458216 -0.36461,-2.0833206 -1.09375,-2.8125 -0.62502,-0.6249859 -1.30211,-0.9374856 -2.03125,-0.9375 -1.77085,1.44e-5 -3.22918,0.3125141 -4.375,0.9375 z m 3.4375,-0.78125 c -1.25002,0.833334 -3.12502,1.979166 -5.625,3.4375 l 0,-32.96875 2.1875,0 0,15.9375 c 1.35415,-0.7291512 2.96873,-1.0937342 4.84375,-1.09375 1.77081,1.58e-5 3.12498,0.4687653 4.0625,1.40625 1.04164,1.04168 1.56247,2.3958453 1.5625,4.0625 -3e-5,1.979175 -0.98961,3.95834 -2.96875,5.9375 -1.14586,1.145837 -2.50002,2.239585 -4.0625,3.28125 z"
+         style="font-size:40px;font-weight:normal;fill:#000000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4118" />
+    </g>
+    <path
        style="fill:#ffffff;fill-opacity:0.27986348;stroke:#ffffff;stroke-opacity:0.44363637;display:inline"
-       id="rect4559-2-2-2-21-1-7-0-4-1-7-3-0"
-       width="100"
-       height="100"
-       x="300"
-       y="-100" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3213-98-4-0-3-9-6-3-5"
+       d="m 300,-100 100,0 0,100 -100,0 z"
+       id="rect4559-2-2-2-21-1-7-0-4-1-7-3-0" />
+    <g
+       transform="translate(154.90625,-62.625)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold"
-       transform="translate(154.90625,-62.625)"><flowRegion
-         id="flowRegion3215-3-45-8-8-6-9-8-80"><rect
-           id="rect3217-69-2-8-7-14-4-9-49"
-           width="194.17232"
-           height="81.417053"
-           x="99.607887"
-           y="-21.782101"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold" /></flowRegion><flowPara
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-3px;fill:#000000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
-         id="flowPara3219-0-7-9-6-45-1-5-3">5♯</flowPara></flowRoot>    <rect
+       id="flowRoot3213-98-4-0-3-9-6-3-5">
+      <path
+         d="m 172.09375,-6 13.4375,0 0,2.96875 -10.46875,0 0,0.46875 c -0.10417,1.97918844 -0.26042,3.9062698 -0.46875,5.78125 -0.10417,0.3125177 -0.15626,0.6250173 -0.15625,0.9375 1.35416,-1.2499817 2.81249,-1.8749811 4.375,-1.875 2.08332,1.89e-5 3.80207,0.6771016 5.15625,2.03125 1.45832,1.4583488 2.18748,3.5937633 2.1875,6.40625 -2e-5,3.541674 -0.93752,6.250004 -2.8125,8.125 -1.45835,1.458334 -3.28126,2.1875 -5.46875,2.1875 -2.08334,0 -3.80209,-0.677083 -5.15625,-2.03125 -1.35417,-1.354163 -2.1875,-3.385411 -2.5,-6.09375 l 3.59375,0 c 0.20833,1.979173 0.72916,3.385422 1.5625,4.21875 0.62499,0.625003 1.40624,0.937503 2.34375,0.9375 1.24999,3e-6 2.23957,-0.36458 2.96875,-1.09375 1.14582,-1.145828 1.71874,-3.072909 1.71875,-5.78125 -1e-5,-2.6041541 -0.46876,-4.3749856 -1.40625,-5.3125 -0.62501,-0.6249841 -1.35418,-0.9374837 -2.1875,-0.9375 -1.25001,1.63e-5 -2.34376,0.4687658 -3.28125,1.40625 -0.62501,0.6250142 -1.04167,1.0937638 -1.25,1.40625 l -3.125,0 c 0.10416,-0.4166528 0.15625,-0.7812358 0.15625,-1.09375 L 172.09375,-5.375 z"
+         style="font-size:40px;font-weight:normal;fill:#000000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4110" />
+      <path
+         d="m 208.78125,1.8125 -6.875,0.78125 0,10 6.875,-0.78125 z m -16.40625,12.03125 6.40625,-0.78125 0,-10 -6.40625,0.625 0,-2.96875 6.40625,-0.625 0,-8.75 3.125,0 0,8.28125 6.875,-0.78125 0,-9.53125 3.125,0 0,9.0625 6.40625,-0.78125 0,2.96875 -6.40625,0.78125 0,10 6.40625,-0.78125 0,2.96875 -6.40625,0.78125 0,8.125 -3.125,0 0,-7.65625 -6.875,0.78125 0,8.90625 -3.125,0 0,-8.4375 -6.40625,0.78125 z"
+         style="font-size:40px;font-weight:normal;fill:#000000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4112" />
+    </g>
+    <path
        style="fill:#ffffff;fill-opacity:0.27986348;stroke:#ffffff;stroke-opacity:0.44363637;display:inline"
-       id="rect4559-2-2-2-21-1-7-0-4-1-7-3-7"
-       width="100"
-       height="100"
-       x="300"
-       y="0" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3213-98-4-0-3-9-6-3-8"
+       d="m 300,0 100,0 0,100 -100,0 z"
+       id="rect4559-2-2-2-21-1-7-0-4-1-7-3-7" />
+    <g
+       transform="translate(154.90625,37.375)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold"
-       transform="translate(154.90625,37.375)"><flowRegion
-         id="flowRegion3215-3-45-8-8-6-9-8-1"><rect
-           id="rect3217-69-2-8-7-14-4-9-71"
-           width="194.17232"
-           height="81.417053"
-           x="99.607887"
-           y="-21.782101"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold" /></flowRegion><flowPara
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-3px;fill:#000000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
-         id="flowPara3219-0-7-9-6-45-1-5-71">5♭</flowPara></flowRoot>    <rect
+       id="flowRoot3213-98-4-0-3-9-6-3-8">
+      <path
+         d="m 172.09375,-6 13.4375,0 0,2.96875 -10.46875,0 0,0.46875 c -0.10417,1.97918844 -0.26042,3.9062698 -0.46875,5.78125 -0.10417,0.3125177 -0.15626,0.6250173 -0.15625,0.9375 1.35416,-1.2499817 2.81249,-1.8749811 4.375,-1.875 2.08332,1.89e-5 3.80207,0.6771016 5.15625,2.03125 1.45832,1.4583488 2.18748,3.5937633 2.1875,6.40625 -2e-5,3.541674 -0.93752,6.250004 -2.8125,8.125 -1.45835,1.458334 -3.28126,2.1875 -5.46875,2.1875 -2.08334,0 -3.80209,-0.677083 -5.15625,-2.03125 -1.35417,-1.354163 -2.1875,-3.385411 -2.5,-6.09375 l 3.59375,0 c 0.20833,1.979173 0.72916,3.385422 1.5625,4.21875 0.62499,0.625003 1.40624,0.937503 2.34375,0.9375 1.24999,3e-6 2.23957,-0.36458 2.96875,-1.09375 1.14582,-1.145828 1.71874,-3.072909 1.71875,-5.78125 -1e-5,-2.6041541 -0.46876,-4.3749856 -1.40625,-5.3125 -0.62501,-0.6249841 -1.35418,-0.9374837 -2.1875,-0.9375 -1.25001,1.63e-5 -2.34376,0.4687658 -3.28125,1.40625 -0.62501,0.6250142 -1.04167,1.0937638 -1.25,1.40625 l -3.125,0 c 0.10416,-0.4166528 0.15625,-0.7812358 0.15625,-1.09375 L 172.09375,-5.375 z"
+         style="font-size:40px;font-weight:normal;fill:#000000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4104" />
+      <path
+         d="m 201.75,20.875 c 1.35415,-0.833332 2.60415,-1.822915 3.75,-2.96875 2.49998,-2.499994 3.74998,-4.947908 3.75,-7.34375 -2e-5,-1.1458216 -0.36461,-2.0833206 -1.09375,-2.8125 -0.62502,-0.6249859 -1.30211,-0.9374856 -2.03125,-0.9375 -1.77085,1.44e-5 -3.22918,0.3125141 -4.375,0.9375 z m 3.4375,-0.78125 c -1.25002,0.833334 -3.12502,1.979166 -5.625,3.4375 l 0,-32.96875 2.1875,0 0,15.9375 c 1.35415,-0.7291512 2.96873,-1.0937342 4.84375,-1.09375 1.77081,1.58e-5 3.12498,0.4687653 4.0625,1.40625 1.04164,1.04168 1.56247,2.3958453 1.5625,4.0625 -3e-5,1.979175 -0.98961,3.95834 -2.96875,5.9375 -1.14586,1.145837 -2.50002,2.239585 -4.0625,3.28125 z"
+         style="font-size:40px;font-weight:normal;fill:#000000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4106" />
+    </g>
+    <path
        style="fill:#ffffff;fill-opacity:0.27986348;stroke:#ffffff;stroke-opacity:0.44363637;display:inline"
-       id="rect4559-2-2-2-21-1-7-0-4-1-7-3-09"
-       width="100"
-       height="100"
-       x="300"
-       y="100" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3213-98-4-0-3-9-6-3-2"
+       d="m 300,100 100,0 0,100 -100,0 z"
+       id="rect4559-2-2-2-21-1-7-0-4-1-7-3-09" />
+    <g
+       transform="translate(154.90625,137.375)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold"
-       transform="translate(154.90625,137.375)"><flowRegion
-         id="flowRegion3215-3-45-8-8-6-9-8-7"><rect
-           id="rect3217-69-2-8-7-14-4-9-26"
-           width="194.17232"
-           height="81.417053"
-           x="99.607887"
-           y="-21.782101"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold" /></flowRegion><flowPara
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-3px;fill:#000000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
-         id="flowPara3219-0-7-9-6-45-1-5-03">7♯</flowPara></flowRoot>    <rect
+       id="flowRoot3213-98-4-0-3-9-6-3-2">
+      <path
+         d="m 170.84375,-6 14.84375,0 0,3.4375 -7.5,23.28125 -3.4375,0 7.5,-23.75 -11.40625,0 z"
+         style="font-size:40px;font-weight:normal;fill:#000000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4098" />
+      <path
+         d="m 208.78125,1.8125 -6.875,0.78125 0,10 6.875,-0.78125 z m -16.40625,12.03125 6.40625,-0.78125 0,-10 -6.40625,0.625 0,-2.96875 6.40625,-0.625 0,-8.75 3.125,0 0,8.28125 6.875,-0.78125 0,-9.53125 3.125,0 0,9.0625 6.40625,-0.78125 0,2.96875 -6.40625,0.78125 0,10 6.40625,-0.78125 0,2.96875 -6.40625,0.78125 0,8.125 -3.125,0 0,-7.65625 -6.875,0.78125 0,8.90625 -3.125,0 0,-8.4375 -6.40625,0.78125 z"
+         style="font-size:40px;font-weight:normal;fill:#000000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4100" />
+    </g>
+    <path
        style="fill:#ffffff;fill-opacity:0.27986348;stroke:#ffffff;stroke-opacity:0.44363637;display:inline"
-       id="rect4559-2-2-2-21-1-7-0-4-1-7-3-5"
-       width="100"
-       height="100"
-       x="300"
-       y="200" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3213-98-4-0-3-9-6-3-56"
+       d="m 300,200 100,0 0,100 -100,0 z"
+       id="rect4559-2-2-2-21-1-7-0-4-1-7-3-5" />
+    <g
+       transform="translate(154.90625,237.375)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold"
-       transform="translate(154.90625,237.375)"><flowRegion
-         id="flowRegion3215-3-45-8-8-6-9-8-0"><rect
-           id="rect3217-69-2-8-7-14-4-9-47"
-           width="194.17232"
-           height="81.417053"
-           x="99.607887"
-           y="-21.782101"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold" /></flowRegion><flowPara
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-3px;fill:#000000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
-         id="flowPara3219-0-7-9-6-45-1-5-8">4♭</flowPara></flowRoot>    <rect
+       id="flowRoot3213-98-4-0-3-9-6-3-56">
+      <path
+         d="m 180.0625,-6.3125 3.59375,0 0,17.1875 3.28125,0 0,2.96875 -3.28125,0 0,6.875 -3.59375,0 0,-6.875 -10.46875,0 0,-3.125 z m 0,5.78125 -7.03125,11.40625 7.03125,0 z"
+         style="font-size:40px;font-weight:normal;fill:#000000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4092" />
+      <path
+         d="m 201.75,20.875 c 1.35415,-0.833332 2.60415,-1.822915 3.75,-2.96875 2.49998,-2.499994 3.74998,-4.947908 3.75,-7.34375 -2e-5,-1.1458216 -0.36461,-2.0833206 -1.09375,-2.8125 -0.62502,-0.6249859 -1.30211,-0.9374856 -2.03125,-0.9375 -1.77085,1.44e-5 -3.22918,0.3125141 -4.375,0.9375 z m 3.4375,-0.78125 c -1.25002,0.833334 -3.12502,1.979166 -5.625,3.4375 l 0,-32.96875 2.1875,0 0,15.9375 c 1.35415,-0.7291512 2.96873,-1.0937342 4.84375,-1.09375 1.77081,1.58e-5 3.12498,0.4687653 4.0625,1.40625 1.04164,1.04168 1.56247,2.3958453 1.5625,4.0625 -3e-5,1.979175 -0.98961,3.95834 -2.96875,5.9375 -1.14586,1.145837 -2.50002,2.239585 -4.0625,3.28125 z"
+         style="font-size:40px;font-weight:normal;fill:#000000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4094" />
+    </g>
+    <path
        style="fill:#ffffff;fill-opacity:0.27986348;stroke:#ffffff;stroke-opacity:0.44363637;display:inline"
-       id="rect4559-2-2-2-21-1-7-0-4-1-7-3-10"
-       width="100"
-       height="100"
-       x="300"
-       y="300" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3213-98-4-0-3-9-6-3-45"
+       d="m 300,300 100,0 0,100 -100,0 z"
+       id="rect4559-2-2-2-21-1-7-0-4-1-7-3-10" />
+    <g
+       transform="translate(154.90625,337.375)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold"
-       transform="translate(154.90625,337.375)"><flowRegion
-         id="flowRegion3215-3-45-8-8-6-9-8-3"><rect
-           id="rect3217-69-2-8-7-14-4-9-46"
-           width="194.17232"
-           height="81.417053"
-           x="99.607887"
-           y="-21.782101"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold" /></flowRegion><flowPara
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-3px;fill:#000000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
-         id="flowPara3219-0-7-9-6-45-1-5-5">3♭</flowPara></flowRoot>    <rect
+       id="flowRoot3213-98-4-0-3-9-6-3-45">
+      <path
+         d="m 170.84375,1.65625 c 0,-2.39581141 0.78125,-4.3749761 2.34375,-5.9375 1.35416,-1.3541398 3.02083,-2.0312225 5,-2.03125 2.29165,2.75e-5 4.11457,0.6771102 5.46875,2.03125 1.24998,1.2500242 1.87498,2.9166892 1.875,5 -2e-5,2.0833517 -0.52085,3.6458502 -1.5625,4.6875 -0.72918,0.7291817 -1.51043,1.145848 -2.34375,1.25 1.04165,0.3125142 1.92707,0.833347 2.65625,1.5625 1.24998,1.2500117 1.87498,2.916677 1.875,5 -2e-5,2.291672 -0.72918,4.16667 -2.1875,5.625 -1.45835,1.458334 -3.4896,2.1875 -6.09375,2.1875 -2.18751,0 -4.01042,-0.729166 -5.46875,-2.1875 -1.45834,-1.45833 -2.1875,-3.177078 -2.1875,-5.15625 l 0,-1.25 3.59375,0 0,1.09375 c -1e-5,1.354173 0.46874,2.500005 1.40625,3.4375 0.72916,0.72917 1.61457,1.093753 2.65625,1.09375 1.35416,3e-6 2.4479,-0.416663 3.28125,-1.25 0.83332,-0.833328 1.24999,-2.13541 1.25,-3.90625 -1e-5,-1.458324 -0.41668,-2.604156 -1.25,-3.4375 -0.83335,-0.8333208 -1.77084,-1.249987 -2.8125,-1.25 l -1.25,0 0,-2.65625 0.9375,0 c 0.93749,1.56e-5 1.8229,-0.4166506 2.65625,-1.25 0.83332,-0.8333156 1.24999,-2.0312311 1.25,-3.59375 -1e-5,-1.35414484 -0.41668,-2.4478937 -1.25,-3.28125 -0.62501,-0.6249756 -1.45834,-0.9374753 -2.5,-0.9375 -0.93751,2.47e-5 -1.77084,0.3646077 -2.5,1.09375 -0.83334,0.8333561 -1.30209,2.18752141 -1.40625,4.0625 z"
+         style="font-size:40px;font-weight:normal;fill:#000000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4086" />
+      <path
+         d="m 201.75,20.875 c 1.35415,-0.833332 2.60415,-1.822915 3.75,-2.96875 2.49998,-2.499994 3.74998,-4.947908 3.75,-7.34375 -2e-5,-1.1458216 -0.36461,-2.0833206 -1.09375,-2.8125 -0.62502,-0.6249859 -1.30211,-0.9374856 -2.03125,-0.9375 -1.77085,1.44e-5 -3.22918,0.3125141 -4.375,0.9375 z m 3.4375,-0.78125 c -1.25002,0.833334 -3.12502,1.979166 -5.625,3.4375 l 0,-32.96875 2.1875,0 0,15.9375 c 1.35415,-0.7291512 2.96873,-1.0937342 4.84375,-1.09375 1.77081,1.58e-5 3.12498,0.4687653 4.0625,1.40625 1.04164,1.04168 1.56247,2.3958453 1.5625,4.0625 -3e-5,1.979175 -0.98961,3.95834 -2.96875,5.9375 -1.14586,1.145837 -2.50002,2.239585 -4.0625,3.28125 z"
+         style="font-size:40px;font-weight:normal;fill:#000000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4088" />
+    </g>
+    <path
        style="fill:#ffffff;fill-opacity:0.27986348;stroke:#ffffff;stroke-opacity:0.44363637;display:inline"
-       id="rect4559-2-2-2-21-1-7-0-4-1-7-3-13"
-       width="100"
-       height="100"
-       x="300"
-       y="400" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3213-98-4-0-3-9-6-3-43"
+       d="m 300,400 100,0 0,100 -100,0 z"
+       id="rect4559-2-2-2-21-1-7-0-4-1-7-3-13" />
+    <g
+       transform="translate(154.90625,437.375)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold"
-       transform="translate(154.90625,437.375)"><flowRegion
-         id="flowRegion3215-3-45-8-8-6-9-8-32"><rect
-           id="rect3217-69-2-8-7-14-4-9-1"
-           width="194.17232"
-           height="81.417053"
-           x="99.607887"
-           y="-21.782101"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold" /></flowRegion><flowPara
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-3px;fill:#000000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
-         id="flowPara3219-0-7-9-6-45-1-5-53">2♭</flowPara></flowRoot>    <rect
+       id="flowRoot3213-98-4-0-3-9-6-3-43">
+      <path
+         d="m 170.84375,3.0625 c 0,-3.22914531 0.83333,-5.6770595 2.5,-7.34375 1.35416,-1.3541398 2.96874,-2.0312225 4.84375,-2.03125 2.29165,2.75e-5 4.11457,0.6771102 5.46875,2.03125 1.35415,1.3541908 2.03123,3.0208558 2.03125,5 -2e-5,2.500018 -0.78127,4.6875158 -2.34375,6.5625 -1.45835,1.7708455 -2.96876,3.489594 -4.53125,5.15625 -0.83334,0.937508 -1.66668,1.875007 -2.5,2.8125 -0.72917,0.833338 -1.35417,1.666671 -1.875,2.5 l 11.71875,0 0,2.96875 -15.9375,0 0,-2.65625 c 0.20833,-1.041663 1.09375,-2.499994 2.65625,-4.375 2.60416,-2.81249 4.73957,-5.1562373 6.40625,-7.03125 1.77082,-1.8749836 2.65624,-3.8541483 2.65625,-5.9375 -1e-5,-1.24997828 -0.41668,-2.2916439 -1.25,-3.125 -0.62501,-0.6249758 -1.40626,-0.9374755 -2.34375,-0.9375 -0.83334,2.45e-5 -1.56251,0.3125242 -2.1875,0.9375 -1.14584,1.1458558 -1.71876,2.96877063 -1.71875,5.46875 z"
+         style="font-size:40px;font-weight:normal;fill:#000000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4080" />
+      <path
+         d="m 201.75,20.875 c 1.35415,-0.833332 2.60415,-1.822915 3.75,-2.96875 2.49998,-2.499994 3.74998,-4.947908 3.75,-7.34375 -2e-5,-1.1458216 -0.36461,-2.0833206 -1.09375,-2.8125 -0.62502,-0.6249859 -1.30211,-0.9374856 -2.03125,-0.9375 -1.77085,1.44e-5 -3.22918,0.3125141 -4.375,0.9375 z m 3.4375,-0.78125 c -1.25002,0.833334 -3.12502,1.979166 -5.625,3.4375 l 0,-32.96875 2.1875,0 0,15.9375 c 1.35415,-0.7291512 2.96873,-1.0937342 4.84375,-1.09375 1.77081,1.58e-5 3.12498,0.4687653 4.0625,1.40625 1.04164,1.04168 1.56247,2.3958453 1.5625,4.0625 -3e-5,1.979175 -0.98961,3.95834 -2.96875,5.9375 -1.14586,1.145837 -2.50002,2.239585 -4.0625,3.28125 z"
+         style="font-size:40px;font-weight:normal;fill:#000000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4082" />
+    </g>
+    <path
        style="fill:#ffffff;fill-opacity:0.27986348;stroke:#ffffff;stroke-opacity:0.44363637;display:inline"
-       id="rect4559-2-2-2-21-1-7-0-4-1-7-3-67"
-       width="100"
-       height="100"
-       x="300"
-       y="500" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3213-98-4-0-3-9-6-3-40"
+       d="m 300,500 100,0 0,100 -100,0 z"
+       id="rect4559-2-2-2-21-1-7-0-4-1-7-3-67" />
+    <g
+       transform="translate(154.90625,537.375)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold"
-       transform="translate(154.90625,537.375)"><flowRegion
-         id="flowRegion3215-3-45-8-8-6-9-8-07"><rect
-           id="rect3217-69-2-8-7-14-4-9-18"
-           width="194.17232"
-           height="81.417053"
-           x="99.607887"
-           y="-21.782101"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold" /></flowRegion><flowPara
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-3px;fill:#000000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
-         id="flowPara3219-0-7-9-6-45-1-5-09">1♭</flowPara></flowRoot>    <rect
+       id="flowRoot3213-98-4-0-3-9-6-3-40">
+      <path
+         d="m 177.25,-3.34375 c 0.93749,-0.9374745 1.45832,-1.9791402 1.5625,-3.125 l 1.875,0 0,27.03125 -3.59375,0 0,-20.78125 -4.6875,0 0,-1.875 1.40625,0 c 1.45833,2.33e-5 2.60416,-0.416643 3.4375,-1.25 z"
+         style="font-size:40px;font-weight:normal;fill:#000000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4074" />
+      <path
+         d="m 201.75,20.875 c 1.35415,-0.833332 2.60415,-1.822915 3.75,-2.96875 2.49998,-2.499994 3.74998,-4.947908 3.75,-7.34375 -2e-5,-1.1458216 -0.36461,-2.0833206 -1.09375,-2.8125 -0.62502,-0.6249859 -1.30211,-0.9374856 -2.03125,-0.9375 -1.77085,1.44e-5 -3.22918,0.3125141 -4.375,0.9375 z m 3.4375,-0.78125 c -1.25002,0.833334 -3.12502,1.979166 -5.625,3.4375 l 0,-32.96875 2.1875,0 0,15.9375 c 1.35415,-0.7291512 2.96873,-1.0937342 4.84375,-1.09375 1.77081,1.58e-5 3.12498,0.4687653 4.0625,1.40625 1.04164,1.04168 1.56247,2.3958453 1.5625,4.0625 -3e-5,1.979175 -0.98961,3.95834 -2.96875,5.9375 -1.14586,1.145837 -2.50002,2.239585 -4.0625,3.28125 z"
+         style="font-size:40px;font-weight:normal;fill:#000000;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4076" />
+    </g>
+    <path
        style="fill:#ffffff;fill-opacity:0.27986348;stroke:#ffffff;stroke-opacity:0.44363637;display:inline"
-       id="rect4559-2-2-2-21-1-7-0-1-9"
-       width="100"
-       height="100"
-       x="100"
-       y="399" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3213-98-4-0-07-2"
+       d="m 100,399 100,0 0,100 -100,0 z"
+       id="rect4559-2-2-2-21-1-7-0-1-9" />
+    <g
+       transform="translate(-40.40625,436.1875)"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold"
-       transform="translate(-40.40625,436.1875)"><flowRegion
-         id="flowRegion3215-3-45-8-2-2"><rect
-           id="rect3217-69-2-8-58-1"
-           width="194.17232"
-           height="81.417053"
-           x="99.607887"
-           y="-21.782101"
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-3px;writing-mode:lr-tb;text-anchor:middle;fill:#aa0000;font-family:Adobe Garamond Pro;-inkscape-font-specification:Adobe Garamond Pro Semi-Bold" /></flowRegion><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-3px;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
-         id="flowPara3219-0-7-9-85-1">B♭</flowPara></flowRoot>  </g>
+       id="flowRoot3213-98-4-0-07-2">
+      <path
+         d="m 162.09375,-2.84375 15,0 c 2.49998,3.26e-5 4.56248,0.8125318 6.1875,2.4375 1.49997,1.5000287 2.24997,3.5000267 2.25,6 -3e-5,2.0000222 -0.68753,3.6875205 -2.0625,5.0625 -0.75002,0.750018 -1.68752,1.312518 -2.8125,1.6875 1.49998,0.500017 2.68748,1.187516 3.5625,2.0625 1.49997,1.500014 2.24997,3.375012 2.25,5.625 -3e-5,2.750007 -0.93753,5.062505 -2.8125,6.9375 -1.50002,1.500001 -3.75002,2.250001 -6.75,2.25 l -14.8125,0 z m 4.3125,3.5625 0,9.9375 10.125,0 c 1.24998,1.9e-5 2.31248,-0.43748 3.1875,-1.3125 0.99998,-0.9999786 1.49998,-2.3124773 1.5,-3.9375 -2e-5,-1.3749742 -0.50002,-2.5624731 -1.5,-3.5625 -0.75002,-0.7499713 -1.68752,-1.12497094 -2.8125,-1.125 z m 0,13.5 0,11.4375 9.5625,0 c 1.87498,4e-6 3.31248,-0.499995 4.3125,-1.5 1.12498,-1.124993 1.68748,-2.499992 1.6875,-4.125 -2e-5,-1.749989 -0.50002,-3.124987 -1.5,-4.125 -1.12502,-1.124985 -2.62502,-1.687484 -4.5,-1.6875 z"
+         style="font-size:48px;font-weight:normal;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4068" />
+      <path
+         d="m 206.34375,29.40625 c 1.62498,-0.999999 3.12498,-2.187497 4.5,-3.5625 2.99997,-2.999993 4.49997,-5.93749 4.5,-8.8125 -3e-5,-1.374986 -0.43753,-2.499985 -1.3125,-3.375 -0.75003,-0.749983 -1.56253,-1.124983 -2.4375,-1.125 -2.12502,1.7e-5 -3.87502,0.375017 -5.25,1.125 z m 4.125,-0.9375 c -1.50002,1 -3.75002,2.374999 -6.75,4.125 l 0,-39.5625 2.625,0 0,19.125 c 1.62498,-0.874982 3.56248,-1.312481 5.8125,-1.3125 2.12497,1.9e-5 3.74997,0.562518 4.875,1.6875 1.24997,1.250016 1.87497,2.875014 1.875,4.875 -3e-5,2.37501 -1.18753,4.750008 -3.5625,7.125 -1.37503,1.375004 -3.00003,2.687503 -4.875,3.9375 z"
+         style="font-size:48px;font-weight:normal;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+         id="path4070" />
+    </g>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
