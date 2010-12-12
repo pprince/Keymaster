@@ -1,6 +1,7 @@
-Keymaster is Free Software!
-If you find it useful, give it to your friends!
------------------------====-==-==-====-=======-
+Keymaster is Free Software.
+
+If you find it to be useful to you, please share it with your friends!
+
 
 Keymaster Copyright © 2010 Paul Allen Prince and Gerald Braden Hildenbrand III.
 All rights reserved.

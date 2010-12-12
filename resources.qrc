@@ -1,7 +1,6 @@
 <RCC>
     <qresource prefix="/keymaster/artwork">
-        <file>Circle_of_fifths_deluxe_4.svg</file>
-        <file>circle_of_5ths_500x500.svg</file>
         <file>ALL_KEYS.svg</file>
+        <file>circle_of_5ths_500x500.svg</file>
     </qresource>
 </RCC>
