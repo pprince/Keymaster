@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>750</width>
-    <height>550</height>
+    <width>600</width>
+    <height>400</height>
    </rect>
   </property>
   <property name="palette">
@@ -84,9 +84,12 @@
   </property>
   <widget class="QWidget" name="centralWidget">
    <widget class="QComboBox" name="comboBox">
+    <property name="enabled">
+     <bool>false</bool>
+    </property>
     <property name="geometry">
      <rect>
-      <x>534</x>
+      <x>384</x>
       <y>15</y>
       <width>201</width>
       <height>30</height>
@@ -121,7 +124,7 @@
    <widget class="QLabel" name="label">
     <property name="geometry">
      <rect>
-      <x>410</x>
+      <x>260</x>
       <y>15</y>
       <width>121</width>
       <height>30</height>
@@ -142,7 +145,7 @@
     <property name="geometry">
      <rect>
       <x>15</x>
-      <y>460</y>
+      <y>311</y>
       <width>75</width>
       <height>50</height>
      </rect>
@@ -154,9 +157,9 @@
    <widget class="QPushButton" name="next_key_button">
     <property name="geometry">
      <rect>
-      <x>524</x>
-      <y>439</y>
-      <width>211</width>
+      <x>385</x>
+      <y>290</y>
+      <width>200</width>
       <height>71</height>
      </rect>
     </property>
@@ -171,75 +174,11 @@
      <string>Next Key →</string>
     </property>
    </widget>
-   <widget class="QGraphicsView" name="majortext_gv">
-    <property name="geometry">
-     <rect>
-      <x>265</x>
-      <y>260</y>
-      <width>100</width>
-      <height>100</height>
-     </rect>
-    </property>
-    <property name="verticalScrollBarPolicy">
-     <enum>Qt::ScrollBarAlwaysOff</enum>
-    </property>
-    <property name="horizontalScrollBarPolicy">
-     <enum>Qt::ScrollBarAlwaysOff</enum>
-    </property>
-   </widget>
-   <widget class="QGraphicsView" name="numbers_gv">
-    <property name="geometry">
-     <rect>
-      <x>485</x>
-      <y>260</y>
-      <width>100</width>
-      <height>100</height>
-     </rect>
-    </property>
-    <property name="verticalScrollBarPolicy">
-     <enum>Qt::ScrollBarAlwaysOff</enum>
-    </property>
-    <property name="horizontalScrollBarPolicy">
-     <enum>Qt::ScrollBarAlwaysOff</enum>
-    </property>
-   </widget>
-   <widget class="QGraphicsView" name="minortext_gv">
-    <property name="geometry">
-     <rect>
-      <x>375</x>
-      <y>260</y>
-      <width>100</width>
-      <height>100</height>
-     </rect>
-    </property>
-    <property name="verticalScrollBarPolicy">
-     <enum>Qt::ScrollBarAlwaysOff</enum>
-    </property>
-    <property name="horizontalScrollBarPolicy">
-     <enum>Qt::ScrollBarAlwaysOff</enum>
-    </property>
-   </widget>
-   <widget class="QGraphicsView" name="signatures_gv">
-    <property name="geometry">
-     <rect>
-      <x>155</x>
-      <y>260</y>
-      <width>100</width>
-      <height>100</height>
-     </rect>
-    </property>
-    <property name="verticalScrollBarPolicy">
-     <enum>Qt::ScrollBarAlwaysOff</enum>
-    </property>
-    <property name="horizontalScrollBarPolicy">
-     <enum>Qt::ScrollBarAlwaysOff</enum>
-    </property>
-   </widget>
    <widget class="QGraphicsView" name="combined_gv">
     <property name="geometry">
      <rect>
-      <x>155</x>
-      <y>140</y>
+      <x>85</x>
+      <y>130</y>
       <width>430</width>
       <height>100</height>
      </rect>
@@ -254,8 +193,8 @@
    <widget class="QLabel" name="label_2">
     <property name="geometry">
      <rect>
-      <x>-9</x>
-      <y>320</y>
+      <x>80</x>
+      <y>200</y>
       <width>591</width>
       <height>221</height>
      </rect>
@@ -300,7 +239,7 @@
     <property name="font">
      <font>
       <family>Forte</family>
-      <pointsize>196</pointsize>
+      <pointsize>114</pointsize>
      </font>
     </property>
     <property name="text">
@@ -313,7 +252,7 @@
     </property>
     <property name="geometry">
      <rect>
-      <x>550</x>
+      <x>400</x>
       <y>50</y>
       <width>181</width>
       <height>20</height>
@@ -333,10 +272,6 @@
    <zorder>label</zorder>
    <zorder>exit_button</zorder>
    <zorder>next_key_button</zorder>
-   <zorder>majortext_gv</zorder>
-   <zorder>numbers_gv</zorder>
-   <zorder>minortext_gv</zorder>
-   <zorder>signatures_gv</zorder>
    <zorder>combined_gv</zorder>
    <zorder>checkBox</zorder>
   </widget>
@@ -345,7 +280,7 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>750</width>
+     <width>600</width>
      <height>21</height>
     </rect>
    </property>
